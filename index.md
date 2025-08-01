@@ -3,8 +3,7 @@ Prof. Frank "Trey" Proctor**
 
 **Fall 2025**
 
-![battle](media/image2.png){width="6.377809492563429in"
-height="4.119739720034995in"}
+![battle](media/image2.png)
 
 Class: MWF 12:30-1:20pm
 
@@ -16,8 +15,7 @@ Office: 404 Fellows Hall
 
 Telephone: 740-587-5791
 
-Email:
-[[proctorf@denison.edu]{.underline}](mailto:proctorf@denison.edu)
+Email: [proctorf@denison.edu](mailto:proctorf@denison.edu)
 
 Preferred pronouns: he/him/his
 
@@ -39,7 +37,7 @@ do we account for indigenous defeat? What role did the Catholic Church,
 Spanish settlers, and indigenous peoples play in the fall of the Aztecs
 and the consolidation of conquest society?
 
-**[Course Goals]{.underline}**
+## Course Goals
 
 **What I want for you -**
 
@@ -143,11 +141,10 @@ after you leave Denison --
         > than a C-**. The goal is to identify arguments and mark
         > arguments of your own.
 
-    -   Students will also anonymously assess/review these presentations
-        > (see attached
-        > [[rubric]{.underline}](https://drive.google.com/file/d/1alJgfxDF6ufjN5xjkC5WOUBGwozWKzDe/view?usp=sharing))
-        > and will reflect on how we can improve our own presentations
-        > based on witnessing others' work.
+    - Students will also anonymously assess/review these presentations
+      (see attached [rubric](https://drive.google.com/file/d/1alJgfxDF6ufjN5xjkC5WOUBGwozWKzDe/view?usp=sharing))
+      and will reflect on how we can improve our own presentations
+      based on witnessing others' work.
 
     -   **Presentation Advice -** Work to use *They Say/I Say* as the
         > model of your presentations. Identify the primary arguments
@@ -212,9 +209,11 @@ after you leave Denison --
 | Reviews of Peers' Presentations, Peer Review, and *They Say/I Say* exercises | Ongoing | 7.5% |
 | Contribution | Ongoing | 15% |
 
-**[Assignments -]{.underline}**
+## Assignments
 
-**[Tutorials]{.underline}** - The electronic version of *They Say/I Say*
+### Tutorials
+
+The electronic version of *They Say/I Say*
 that you are required to purchase includes a series of tutorials for
 each chapter. You are expected to finish the tutorial for each chapter
 on the day that it is assigned. (However, you will have an additional
@@ -228,8 +227,8 @@ receive an A+ for this portion of your grade. You complete your
 Tutorials here (Please select the "Tutorial Tab" after having read the
 associated chapter through Canvas.
 
-**[Papers: (specific prompts for each paper can be found on the weekly
-schedule)]{.underline}**
+### Papers
+(specific prompts for each paper can be found on the weekly schedule)
 
 These papers will be formal historical essays, which will be graded on
 the thoughtfulness of the argument (thesis) and the degree to which the
