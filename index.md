@@ -1,7 +1,7 @@
 **History 205-03 -- THE CONQUEST OF MEXICO\
 Prof. Frank "Trey" Proctor**
 
-**Spring 2025**
+**Fall 2025**
 
 ![battle](media/image2.png){width="6.377809492563429in"
 height="4.119739720034995in"}
@@ -746,24 +746,23 @@ their group mates and with the professor for guidance on group projects.
 |     > and Federal Copyright Law.                                     |
 +----------------------------------------------------------------------+
 
-\*THIS SCHEDULE IS SUBJECT TO CHANGE (all revisions will be marked in
-Red)
+*THIS SCHEDULE IS SUBJECT TO CHANGE (all revisions will be marked in Red)
 
 +--------+------------------------------------------------------------+
-| W 1/22 | **Introductions**                                          |
+| F 8/29 | **Introductions**                                          |
 +========+============================================================+
-| F 1/24 | **Activity: Establish Classroom Discussion Environment**   |
+| M 9/1  | **Activity: Establish Classroom Discussion Environment**   |
 |        |                                                            |
 |        | **Handout in Syllabus**                                    |
 +--------+------------------------------------------------------------+
-| M 1/27 | **What is History?**                                       |
+| W 9/3  | **What is History?**                                       |
 |        |                                                            |
 |        | John Arnold, [*[History: A Very Short                      |
 |        | Introduction]{.underline}*](https://doi-org.de             |
 |        | nison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001) |
 |        | (Oxford: Oxford University Press, 2000), 1-14.             |
 +--------+------------------------------------------------------------+
-| W 1/29 | **OVERVIEW -- THE CONQUEST IN A DAY**                      |
+| F 9/5  | **OVERVIEW -- THE CONQUEST IN A DAY**                      |
 |        |                                                            |
 |        | Ross Hassig, "[[The Collision of Two                       |
 |        | Worlds]{.underline}](https://drive.google.com/f            |
@@ -777,7 +776,7 @@ Red)
 |        | York: W.W. Norton & Co., Inc., 2014), 1-29. (intro and     |
 |        | Chapter 1)                                                 |
 +--------+------------------------------------------------------------+
-| F 1/31 | **Discussion -- How to Read a Primary Source**             |
+| M 9/8  | **Discussion -- How to Read a Primary Source**             |
 |        |                                                            |
 |        | Lee Braver, "[[How I Mark Up Philosophy                    |
 |        | Texts]{.underline}](https://drive.google.com/fil           |
@@ -793,68 +792,70 @@ Red)
 |        | Graf and Birkenstein, *They Say/I Say*, 32-46, 188-92.     |
 |        | (Chapter 2 & 13)                                           |
 +--------+------------------------------------------------------------+
-| M 2/3  | **Writing Workshop: Explicating Evidence**                 |
+| W 9/10 | **Writing Workshop: Explicating Evidence**                 |
 |        |                                                            |
 |        | **In-Class Exercises**                                     |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say*, 47-58. (Ch 3)      |
 +--------+------------------------------------------------------------+
-| W 2/5  | **Spanish Sources I -- Cortés' 1^st^ Letter**              |
+| F 9/12 | **Spanish Sources I -- Cortés' 1^st^ Letter**              |
 |        |                                                            |
 |        | Hernán Cortés, *Letters from Mexico* (New Haven: Yale      |
 |        | Univ. Press, 2001), 3-46.                                  |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say*, 59-73. (Ch 4)      |
 +--------+------------------------------------------------------------+
-| F 2/7  | **Overcoming Public Speaking Anxiety / What Makes a        |
+| M 9/15 | **Writing Workshop - AI and Cortés's First Letter**        |
++--------+------------------------------------------------------------+
+| W 9/17 | **Overcoming Public Speaking Anxiety / What Makes a        |
 |        | Successful Presentation?**                                 |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say*, 72-81 (Ch 5 & 6)   |
 +--------+------------------------------------------------------------+
-| M 2/10 | **In Class -- Public Speaking Workshop**                   |
+| F 9/19 | **In Class -- Public Speaking Workshop**                   |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say*, 112-122 (Ch 8)     |
 +--------+------------------------------------------------------------+
-| W 2/12 | **Spanish Sources II -- Díaz's "Historia Verdadera"**      |
+| M 9/22 | **Spanish Sources II -- Díaz's "Historia Verdadera"**      |
 |        |                                                            |
 |        | Bernal Díaz del Castillo, *The Conquest of New Spain*,     |
 |        | trans. by J.M. Cohen, (London: Penguin Books, 1963), 7-14, |
 |        | 57-106.                                                    |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#1- Simeon and Joyce             |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| F 2/14 | **Spanish Sources III -- Cortés' 2^nd^ Letter**            |
+| M 9/23 | **Spanish Sources III -- Cortés' 2^nd^ Letter**            |
 |        |                                                            |
 |        | Cortés, *Letters from Mexico*, 47-102                      |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#2 - Jack and Will               |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| M 2/17 | **Spanish Sources IV -- Díaz's "Historia Verdadera"**      |
+| W 9/25 | **Spanish Sources IV -- Díaz's "Historia Verdadera"**      |
 |        |                                                            |
 |        | Díaz del Castillo, *The Conquest of New Spain*, 107-113,   |
 |        | 119-125, 140-188.                                          |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#3- Carter and Brady             |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| W 2/19 | **Spanish Sources V -- Díaz's "Historia Verdadera"**       |
+| F 9/27 | **Spanish Sources V -- Díaz's "Historia Verdadera"**       |
 |        |                                                            |
 |        | Díaz del Castillo, *The Conquest of New Spain*, 189-244.   |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#4 - Raymond and Sophie          |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| F 2/21 | **Spanish Sources VI -- Cortés' 2^nd^ Letter, cont.**      |
+| M 9/30 | **Spanish Sources VI -- Cortés' 2^nd^ Letter, cont.**      |
 |        |                                                            |
 |        | Cortés, *Letters from Mexico*, 102-143.                    |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#5 - Mara and Kaitlyn            |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| M 2/24 | **Spanish Sources VII -- Díaz's "Historia Verdadera"**     |
+| W 10/2 | **Spanish Sources VII -- Díaz's "Historia Verdadera"**     |
 |        |                                                            |
 |        | Díaz del Castillo, *The Conquest of New Spain*, 245-302.   |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#6 - Maddy and Pepper            |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| W 2/26 | **Writing Workshop -- Paper \#1**                          |
+| F 10/4 | **Writing Workshop -- Paper \#1**                          |
 |        |                                                            |
 |        | ***Due: Full Draft Paper \#1***                            |
 |        |                                                            |
@@ -874,29 +875,27 @@ Red)
 |        | what you know about the outcome of the conquest and focus  |
 |        | on the state of affairs through July 1, 1520).             |
 +--------+------------------------------------------------------------+
-| F 2/28 | **Spanish Sources VIII -- Cortés' 3^rd^ Letter**           |
+| M 10/7 | **Spanish Sources VIII -- Cortés' 3^rd^ Letter**           |
 |        |                                                            |
 |        | Cortés, *Letters from Mexico*, 143-207                     |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#7 - Flo and Garrett             |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| M 3/3  | **Sentences Workshop or AI**                               |
+| W 10/9 | **Sentences Workshop or AI**                               |
 |        |                                                            |
 |        | ***Due: Complete Draft Paper \#2***                        |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say*, 123-138. (Ch 9)    |
 +--------+------------------------------------------------------------+
-| W 3/5  | **Podcasting Workshop**                                    |
+| F 10/11| **Podcasting Workshop**                                    |
 |        |                                                            |
 |        | Materials TBD                                              |
 +--------+------------------------------------------------------------+
-| F 3/7  | **Library Workshop / Podcasts II (installs)**              |
+| M 10/14| **Library Workshop / Podcasts II (installs)**              |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say*, 139-153. (Ch 10)   |
 +--------+------------------------------------------------------------+
-|        | **Spring Break 3/17-3/21**                                 |
-+--------+------------------------------------------------------------+
-| M 3/10 | **Writing Workshop:** Plagiarism and How to Read (and      |
+| W 10/16| **Writing Workshop:** Plagiarism and How to Read (and      |
 |        | Write) about Secondary Sources; or, Writing as             |
 |        | Conversation                                               |
 |        |                                                            |
@@ -929,20 +928,22 @@ Red)
 |        |                                                            |
 |        | Complete the "Plagiarism Tutorial" from *They Say*         |
 +--------+------------------------------------------------------------+
-| W 3/12 | **Spanish Sources IX -- Cortés's 3^rd^ Letter, cont.**     |
+| F 10/17| **Fall Break - No Class**                                  |
++--------+------------------------------------------------------------+
+| M 10/21| **Spanish Sources IX -- Cortés's 3^rd^ Letter, cont.**     |
 |        |                                                            |
 |        | Cortés, *Letters from Mexico*, 207-281.                    |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#8 - Nick and Mia                |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| F 3/14 | **Spanish Sources X -- Díaz's "Historia Verdadera"**       |
+| W 10/23| **Spanish Sources X -- Díaz's "Historia Verdadera"**       |
 |        |                                                            |
 |        | Diaz del Castillo, *The Conquest of New Spain*, 303-307,   |
 |        | 353-413.                                                   |
 |        |                                                            |
-|        | Presentation \#1 -- Team \#9 - Layton and Ben              |
+|        | Presentation \#1                                           |
 +--------+------------------------------------------------------------+
-| M 3/24 | **Writing Workshop -- Paper \#3**                          |
+| F 10/25| **Writing Workshop -- Paper \#3**                          |
 |        |                                                            |
 |        | **Due: Full Draft Paper \#3**                              |
 |        |                                                            |
@@ -959,7 +960,7 @@ Red)
 |        |                                                            |
 |        | Graf and Berkenstein, *They Say*, 165-87. (Ch 12)          |
 +--------+------------------------------------------------------------+
-| W 3/26 | **Aztecs I**                                               |
+| M 10/28| **Aztecs I**                                               |
 |        |                                                            |
 |        | "[[How they reared the sons of lords and                   |
 |        | noblem                                                     |
@@ -988,7 +989,7 @@ Red)
 |        | (New York: Oxford University Press, 2012), 1-7, 16-33, and |
 |        | 38-71.                                                     |
 +--------+------------------------------------------------------------+
-| F 3/28 | **Indigenous Accounts I -- The Florentine Codex**          |
+| W 10/30| **Indigenous Accounts I -- The Florentine Codex**          |
 |        |                                                            |
 |        | James Lockhart, *We People Here: Nahuatl Accounts of The   |
 |        | Conquest of Mexico* (Wipf & Stock Publishers, 2004),       |
@@ -1003,16 +1004,16 @@ Red)
 |        |                                                            |
 |        | **Due: Paper \#4**                                         |
 +--------+------------------------------------------------------------+
-| M 3/31 | **Indigenous Accounts II -- The Florentine Codex**         |
+| F 11/1 | **Indigenous Accounts II -- The Florentine Codex**         |
 |        |                                                            |
 |        | Lockhart, *We People Here*, 114-181 (Chapters 16-28) &     |
 |        | 256-73                                                     |
 +--------+------------------------------------------------------------+
-| W 4/2  | **Indigenous Accounts III -- The Florentine Codex**        |
+| M 11/4 | **Indigenous Accounts III -- The Florentine Codex**        |
 |        |                                                            |
 |        | Lockhart, *We People Here*, 181-256 (Chapters 29-41).      |
 +--------+------------------------------------------------------------+
-| F 4/4  | **Writing Workshop Paper \#5**                             |
+| W 11/6 | **Writing Workshop Paper \#5**                             |
 |        |                                                            |
 |        | ***Due: Full Draft Paper \#5***                            |
 |        |                                                            |
@@ -1021,7 +1022,7 @@ Red)
 |        | Indigenous Chronicles, how would you explain the Aztec     |
 |        | defeat at the hands of the Spanish?                        |
 +--------+------------------------------------------------------------+
-| M 4/7  | **Interpretations I -- Technology and Tactics?**           |
+| F 11/8 | **Interpretations I -- Technology and Tactics?**           |
 |        |                                                            |
 |        | Douglas A. Daniel, "[[Tactical Factors in the Spanish      |
 |        | Conquest of the                                            |
@@ -1037,13 +1038,13 @@ Red)
 |        | in *Seven Myths of the Spanish Conquest* (New York; Oxford |
 |        | University Press, 2004), 27-43.                            |
 |        |                                                            |
-|        | Presentation \#2 -- Group \#1 -                            |
+|        | Presentation \#2                                           |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say,* 193-204. (Ch 14)   |
 |        |                                                            |
 |        | **DUE - Initial Thoughts on Final Project**                |
 +--------+------------------------------------------------------------+
-| W 4/9  | **Interpretations II -- Culture?**                         |
+| M 11/11| **Interpretations II -- Culture?**                         |
 |        |                                                            |
 |        | Tzvetan Todorov, [[*The Conquest of America: The Question  |
 |        | of the                                                     |
@@ -1052,9 +1053,9 @@ Red)
 |        | Richard Howard, trans., (Harper Perennial, 1984), p 51-77, |
 |        | 93-123.                                                    |
 |        |                                                            |
-|        | Presentation \#2 -- Group \#2 -                            |
+|        | Presentation \#2                                           |
 +--------+------------------------------------------------------------+
-| F 4/11 | **Interpretations III -- Indian Civil War?**               |
+| W 11/13| **Interpretations III -- Indian Civil War?**               |
 |        |                                                            |
 |        | Michel Oudijk and Matthew Restall, "[[Mesoamerican         |
 |        | Conquistadors in the Sixteenth                             |
@@ -1064,13 +1065,13 @@ Red)
 |        | Conquest of Mesoamerica* (University of Oklahoma Press,    |
 |        | 2007), 28-64.                                              |
 |        |                                                            |
-|        | Presentation \#2 -- Group \#3 -                            |
+|        | Presentation \#2                                           |
 |        |                                                            |
 |        | Graf and Birkenstein, *They Say/I Say*, 205-233 (Ch 15)    |
 |        |                                                            |
 |        | **Due: Paper \#6**                                         |
 +--------+------------------------------------------------------------+
-| M 4/14 | **Interpretations IV -- The White God Myth?**              |
+| F 11/15| **Interpretations IV -- The White God Myth?**              |
 |        |                                                            |
 |        | Camilla Townsend, "[[Burying the White Gods: New           |
 |        | Perspectives on the Conquest of                            |
@@ -1078,9 +1079,9 @@ Red)
 |        | c.oup.com/ahr/article-pdf/108/3/659/51731/108-3-659.pdf)," |
 |        | *American Historical Review* 108:3 (June 2003), 659-687.   |
 |        |                                                            |
-|        | Presentation \#2 -- Group \#4 -                            |
+|        | Presentation \#2                                           |
 +--------+------------------------------------------------------------+
-| W 4/16 | **Interpretations V -- Culture Clash?**                    |
+| M 11/18| **Interpretations V -- Culture Clash?**                    |
 |        |                                                            |
 |        | Inga Clendinnen, \"'[[Fierce and Unnatural Cruelty:'\"     |
 |        | Cortés and the Conquest of                                 |
@@ -1088,51 +1089,50 @@ Red)
 |        | xico]{.underline}](https://www.jstor.org/stable/2928758)," |
 |        | *Representations* 33 (1991): 35-60.                        |
 |        |                                                            |
-|        | Presentation \#2 -- Group \#5 -                            |
+|        | Presentation \#2                                           |
 +--------+------------------------------------------------------------+
-| F 4/18 | **Interpretations VI -- Moctezuma?**                       |
+| F 11/21| **Interpretations VI -- Moctezuma?**                       |
 |        |                                                            |
 |        | Susan B. Gillespie, "[[Blaming Moteuczoma: The             |
 |        | Anthropomorphization of the Aztec                          |
 |        | Conquest]{.underline}](https://                            |
-|        | muse-jhu-edu.denison.idm.oclc.org/book/113)," in *Invasion |
+|        | muse-jhu-edu.denison.idm.oclc.org/book/113)," in *Invasion |
 |        | and Transformation: Interdisciplinary Perspectives on the  |
-|        | Conquest of Mexico,* R.P. Brienen and M.A. Jackson, eds.,  |
+|        | Conquest of Mexico,* R.P. Brienen and M.A. Jackson, eds.,  |
 |        | (Boulder: University Press of Colorado, 2008), 25-55.      |
 |        |                                                            |
-|        | Presentation \#2 -- Group \#6 -                            |
+|        | Presentation \#2                                           |
 |        |                                                            |
 |        | **DUE: Annotated Bibliography for Final Podcast**          |
 +--------+------------------------------------------------------------+
-| M 4/21 | In-Class Writing Accountability Day**.**                   |
+| F 11/22| **In-Class Writing Accountability Day**                    |
 +--------+------------------------------------------------------------+
-| W 4/23 | In-Class Writing Accountability Day                        |
+|        | **Thanksgiving Break - No Classes 11/24-11/28**            |
++--------+------------------------------------------------------------+
+| M 12/1 | **In-Class Writing Accountability Day**                    |
+|        |                                                            |
+|        | **Due: Argument Proposal for Final Podcast**               |
++--------+------------------------------------------------------------+
+| W 12/3 | **In-Class Writing Accountability Day**                    |
 |        |                                                            |
 |        | **Due by 5pm-- Paper \# 7 Critical Literature Review**     |
 |        |                                                            |
 |        | **Write a 500-word essay that puts three (or more) of the  |
 |        | 7 historians above in conversation**                       |
 +--------+------------------------------------------------------------+
-| F 4/25 | In-Class Writing Accountability Day                        |
+| F 12/5 | **In-Class Writing Accountability Day**                    |
 +--------+------------------------------------------------------------+
-| M 4/28 | In-Class Writing Accountability Day                        |
+| M 12/8 | **In-Class Writing Accountability Day**                    |
 |        |                                                            |
-|        | **Due: Argument Proposal for Final Podcast**               |
+|        |         |
 +--------+------------------------------------------------------------+
-| W 4/30 | In-Class Writing Accountability Day                        |
-+--------+------------------------------------------------------------+
-| F 5/2  | In-Class Writing Accountability Day                        |
+| W 12/10| **In-Class Writing Accountability Day / Course Evaluations**|
 |        |                                                            |
-|        | **Due - Paper \#8 - Full Draft of Podcast Script**         |
+|        | **Due - Paper \#8 - Full Draft of Podcast Script**                                   |
 +--------+------------------------------------------------------------+
-| M 5/5  | In-Class Writing Accountability Day / Course Evaluations   |
-|        |                                                            |
-|        | **Due - Podcast Script**                                   |
+| F 12/12| **Final Presentations and Wrap-up**                        |
 +--------+------------------------------------------------------------+
-|        |                                                            |
+|        | **Final Podcast and Paper \#9 - Final Script Due: Wed, Dec 16 @ 11:00am**                |
 +--------+------------------------------------------------------------+
-|        | **Final Podcast Due: Thurs, May 8 @ 4:00pm**               |
-+--------+------------------------------------------------------------+
-|        | **Review of Classmates Podcasts Due: Sat, May 10^th^ @     |
-|        | 5pm**                                                      |
+|        | **Review of Classmates Podcasts Due: Thurs, Dec 17 @ 5pm**   |
 +--------+------------------------------------------------------------+
