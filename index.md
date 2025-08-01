@@ -23,7 +23,29 @@ Preferred pronouns: he/him/his
 
 From the very beginning, the magnitude and meaning of the "Conquest" of
 Mexico has been a point of controversy and acclaim. Worlds were upended.
-An empire fell. Millions of people died through the cumulative impacts
+An empire fell. Milwithout proper acknowledgement from a source (plagiarism).
+
+## Late Papers## Appropriate Use of Course Materials
+
+The materials distributed in this class, including the syllabus, exams, handouts,
+Only late papers accompanied by a valid
+excuse (illness with doctor\'s note, university sanctioned
+extra-curricular activity, family emergency, etc.) will be accepted
+without penalty. All other late papers will be penalized one full letter
+grade on the day following the due date (A to B) and one third of a
+letter grade (B to B-) for each day after that. Missed assignments will
+be assigned a score of zero.
+
+## Academic Integrity
+
+**Please do your own work. Plagiarism will not be tolerated in any form.** The students and faculty of Denison
+University are committed to academic integrity and will not tolerate any
+violation of this principle.  Academic honesty, the cornerstone of
+teaching and learning, lays the foundation for lifelong integrity.
+
+![Denison Logo](media/image1.jpg)
+
+Academic dishonesty is, in most cases, intellectual theft. It includes,ed through the cumulative impacts
 of war and disease. Christendom was vastly expanded. And, a new society,
 a colonial society, was constructed.
 
@@ -242,17 +264,17 @@ thesis is supported by cited evidence.
 > failure to do so can negatively impact your final grade.
 
 ***Failure to submit a complete initial draft of a paper will carry an
-automatic 10% penalty on the final grade* *for that paper*.**
+automatic 10% penalty on the final grade for that paper.***
 
-***[Please use "Track Changes" in Word to mark the revisions you make to
+***Please use "Track Changes" in Word to mark the revisions you make to
 your original draft. You can turn on "track changes" under the review
 tab (and can set it so that you cannot see all the change you make if
-you like).]{.underline}***
+you like).***
 
 ***To submit a final paper, please upload the final revision (with Track
 Changes) to Canvas.***
 
-[*Paper Format*:]{.underline} The papers must be double spaced, 12-point
+**Paper Format:** The papers must be double spaced, 12-point
 font, have proper footnotes, and must be saved in as a Word file (.doc).
 Papers submitted as Google Docs or as a Works file will be considered
 late. (see the *Chicago Manual of Style, 17^th^ ed*., for style
@@ -276,7 +298,7 @@ will be graded on a 0, 50, 75, 100 grading scale. Students who do not
 submit a full initial draft will receive a full grade reduction in the
 final grade for that assignment (A- to a B-).
 
-**[Critical Literature Review:]{.underline}**
+### Critical Literature Review
 
 Your task is to identify a major question about the conquest of Mexico
 (say, the role of Doña Marina), and to write a 500-word essay that
@@ -298,7 +320,7 @@ your own. For example,
 > model of indigenous self-determination within the conquest, removing
 > them from the position of only victims.*
 
-**[Final Project]{.underline}:**
+### Final Project
 
 Working individually, you will complete a research project on some
 element of the Conquest of Mexico and use it to produce a Podcast. You
@@ -362,9 +384,11 @@ podcast I would encourage you to consider and include the following:
         > explicating the source, within the context of your arguments,
         > to your reader.**
 
-2)  **Engage the ideas of others in service of making your arguments.**
+2) **Engage the ideas of others in service of making your arguments.**
 
-[A non-exhaustive list of potential topics includes:]{.underline}
+#### Potential Topics
+
+A non-exhaustive list of potential topics includes:
 
 +-----------------+---+---------------------------+
 | Quetzalcoatl    |   | Hernán Cortes             |
@@ -486,24 +510,25 @@ Hints --
 
 Please upload your final as an MP3 file (not a .wav file)
 
-**[Books for Purchase (YOU MUST PURCHASE HARD COPIES except for *They
-Say/I Say*; electronic copies will not be accepted)]{.underline}**
+## Books for Purchase
 
--   Hernán Cortés, *Letters from Mexico* (New Haven: Yale Univ. Press,
-    > 2001).
+**YOU MUST PURCHASE HARD COPIES except for *They Say/I Say*; electronic copies will not be accepted**
 
--   Bernal Díaz del Castillo, *The Conquest of New Spain*, trans. by
-    > J.M. Cohen, (London: Penguin Books, 1963).
+- Hernán Cortés, *Letters from Mexico* (New Haven: Yale Univ. Press,
+  2001).
 
--   James Lockhart, *We People Here: Nahuatl Accounts of The Conquest of
-    > Mexico* (Wipf & Stock Publishers, 2004).
+- Bernal Díaz del Castillo, *The Conquest of New Spain*, trans. by
+  J.M. Cohen, (London: Penguin Books, 1963).
 
--   Gerald Graff and Cathy Birkenstein, *They Say/I Say: The Moves that
-    > Matter in Academic Writing*, 6th ed. (New York: W.W. Norton & Co.,
-    > Inc., 2024). ***Please purchase the e-book version of this which
-    > includes online learning tools.***
+- James Lockhart, *We People Here: Nahuatl Accounts of The Conquest of
+  Mexico* (Wipf & Stock Publishers, 2004).
 
-**Grades and Grading** -
+- Gerald Graff and Cathy Birkenstein, *They Say/I Say: The Moves that
+  Matter in Academic Writing*, 6th ed. (New York: W.W. Norton & Co.,
+  Inc., 2024). ***Please purchase the e-book version of this which
+  includes online learning tools.***
+
+## Grades and Grading
 
 Grading is a pedagogical tool. It is meant to signal to students where
 and how they can improve on meeting the expectations for the assignments
@@ -644,13 +669,17 @@ commercial websites (or upload them to a Generative AI site).
 Unauthorized uses of course materials may be considered academic
 misconduct.
 
-**[Disability Statement:]{.underline}** Any student who feels he or she
+## Disability Statement
+
+Any student who feels he or she
 may need accommodation based on the impact of a disability should
 contact me privately as soon as possible to discuss his or her specific
 needs. I rely on the Academic Support & Enrichment Center in 104 Doane
 to verify the need for reasonable accommodations.
 
-**[Writing Center:]{.underline}** The Center is a free resource
+## Writing Center
+
+The Center is a free resource
 available to all Denison students.  Student writing consultants from
 many majors help writers one-on-one in all phases of the writing
 process, from deciphering the assignment, to discussing ideas, to
@@ -659,7 +688,9 @@ developing an argument, to finalizing a draft.  Please visit the
 Website]{.underline}](https://denison.edu/academics/support/the-writing-center)
 for locations and hours.
 
-**[L2 or Multilingual Support]{.underline}:** In addition to the
+## L2 or Multilingual Support
+
+In addition to the
 academic support services available to all Denison students, students
 who use English in addition to other languages can meet with Denison's
 Coordinator of Multilingual Learning, Kalynda Thayer. If English is not
