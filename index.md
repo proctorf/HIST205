@@ -170,74 +170,47 @@ after you leave Denison --
 > research, you will present an argument, you will identify and present
 > potential counterarguments
 
-**Presentation, Paper, and Poster Due Dates:**
+## Assignment Due Dates and Grading
 
-+-----------------------------------------------+------------+-------+
-| ***Graded Writing***                          |            |       |
-+===============================================+============+=======+
-| Essay \#1 Full Draft of Paper on Conquest of  | 10/4       | \--   |
-| Mexico through July 1, 1520/ **Peer Review    |            |       |
-| Workshop**                                    |            |       |
-+-----------------------------------------------+------------+-------+
-| Essay \#2 Complete Draft Paper \#2            | 10/9       | 7.5%  |
-+-----------------------------------------------+------------+-------+
-| Essay \#3 Full Draft on Spanish Perspectives  | 10/25      | \--   |
-| / **Peer Review Workshop**                    |            |       |
-+-----------------------------------------------+------------+-------+
-| Essay \#4 Paper \#4                           | 10/30      | 10%   |
-+-----------------------------------------------+------------+-------+
-| Essay \#5 Full Draft on Indigenous            | 11/6       | \--   |
-| Perspectives / **Peer Review Workshop**       |            |       |
-+-----------------------------------------------+------------+-------+
-| Essay \# 6 Paper \#6                          | 11/13      | 12.5% |
-| Perspectives                                  |            |       |
-+-----------------------------------------------+------------+-------+
-| Essay \#7 -- Critical Literature Review       | 12/3       | 5%    |
-| (by 5pm)                                      |            |       |
-+-----------------------------------------------+------------+-------+
-| Essay \#8 Full Draft Podcast Script / **Peer  | 12/10      | 7.5%  |
-| Review Workshop**                             |            |       |
-+-----------------------------------------------+------------+-------+
-| Essay \#9 Final Script                        | 12/17      | 15%   |
-| (Wed @ 11:00am)                              |            |       |
-+-----------------------------------------------+------------+-------+
-| Stepping Stone Assignments for Final Podcast  |            |       |
-+-----------------------------------------------+------------+-------+
-| -   Initial Thoughts on Final Project         | 11/8       | \--   |
-+-----------------------------------------------+------------+-------+
-| -   Annotated Bibliography for Final Paper    | 11/20      | 2.5%  |
-+-----------------------------------------------+------------+-------+
-| -   Argument Proposal for Final Paper         | 12/1       | 2.5%  |
-+-----------------------------------------------+------------+-------+
-| -   Peer Assessment of 2 classmates' Podcasts| 12/16      |       |
-| (Tues @ 5pm)                                  |            |       |
-+-----------------------------------------------+------------+-------+
-| -   Final Podcast                             | 12/17      |       |
-| (Wed @ 11:00am)                              |            |       |
-+-----------------------------------------------+------------+-------+
-| ***Graded Oral Competency Work***             |            |       |
-+-----------------------------------------------+------------+-------+
-| Presentation \#1 --Spanish Primary Sources    | 9/22-10/23 | 5%    |
-| (2-person teams)                              |            |       |
-+-----------------------------------------------+------------+-------+
-| Presentation \#2 - Short Podcast on           | 11/1-11/4  | 2.5%  |
-| Indigenous Primary Sources                    |            |       |
-+-----------------------------------------------+------------+-------+
-| Presentation \#3 -- Podcast on Secondary      | 11/8-11/21 | 7.5%  |
-| Sources (3-person teams)                      |            |       |
-+-----------------------------------------------+------------+-------+
-| Presentation \#4 -- Final Podcast             | 12/12      | \--   |
-| Presentations                                 |            |       |
-+-----------------------------------------------+------------+-------+
-|                                               |            |       |
-+-----------------------------------------------+------------+-------+
-| ***Other Work***                              |            |       |
-+-----------------------------------------------+------------+-------+
-| Reviews of Peers' Presentations, Peer Review, |            | 7.5%  |
-| and *They Say/I Say* exercises                |            |       |
-+-----------------------------------------------+------------+-------+
-| Contribution                                  |            | 15%   |
-+-----------------------------------------------+------------+-------+
+### Graded Writing Assignments
+
+| Assignment | Due Date | Weight |
+|------------|----------|---------|
+| **Essay #1** Full Draft of Paper on Conquest of Mexico through July 1, 1520 / **Peer Review Workshop** | 10/4 | -- |
+| **Essay #2** Complete Draft Paper #2 | 10/9 | 7.5% |
+| **Essay #3** Full Draft on Spanish Perspectives / **Peer Review Workshop** | 10/25 | -- |
+| **Essay #4** Paper #4 | 10/30 | 10% |
+| **Essay #5** Full Draft on Indigenous Perspectives / **Peer Review Workshop** | 11/6 | -- |
+| **Essay #6** Paper #6 Perspectives | 11/13 | 12.5% |
+| **Essay #7** Critical Literature Review (by 5pm) | 12/3 | 5% |
+| **Essay #8** Full Draft Podcast Script / **Peer Review Workshop** | 12/10 | 7.5% |
+| **Essay #9** Final Script (Wed @ 11:00am) | 12/17 | 15% |
+
+### Stepping Stone Assignments for Final Podcast
+
+| Assignment | Due Date | Weight |
+|------------|----------|---------|
+| Initial Thoughts on Final Project | 11/8 | -- |
+| Annotated Bibliography for Final Paper | 11/20 | 2.5% |
+| Argument Proposal for Final Paper | 12/1 | 2.5% |
+| Peer Assessment of 2 classmates' Podcasts (Tues @ 5pm) | 12/16 | -- |
+| Final Podcast (Wed @ 11:00am) | 12/17 | -- |
+
+### Graded Oral Competency Work
+
+| Assignment | Due Date | Weight |
+|------------|----------|---------|
+| **Presentation #1** Spanish Primary Sources (2-person teams) | 9/22-10/23 | 5% |
+| **Presentation #2** Short Podcast on Indigenous Primary Sources | 11/1-11/4 | 2.5% |
+| **Presentation #3** Podcast on Secondary Sources (3-person teams) | 11/8-11/21 | 7.5% |
+| **Presentation #4** Final Podcast Presentations | 12/12 | -- |
+
+### Other Work
+
+| Assignment | Due Date | Weight |
+|------------|----------|---------|
+| Reviews of Peers' Presentations, Peer Review, and *They Say/I Say* exercises | Ongoing | 7.5% |
+| Contribution | Ongoing | 15% |
 
 **[Assignments -]{.underline}**
 
