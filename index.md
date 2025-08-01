@@ -3,7 +3,7 @@ Prof. Frank "Trey" Proctor**
 
 **Fall 2025**
 
-![battle](media/image2.png)
+![battle](media/battle.png)
 
 Class: MWF 12:30-1:20pm
 
@@ -43,7 +43,7 @@ University are committed to academic integrity and will not tolerate any
 violation of this principle.  Academic honesty, the cornerstone of
 teaching and learning, lays the foundation for lifelong integrity.
 
-![Denison Logo](media/image1.jpg)
+![Denison Logo](media/integrity.jpg)
 
 Academic dishonesty is, in most cases, intellectual theft. It includes,ed through the cumulative impacts
 of war and disease. Christendom was vastly expanded. And, a new society,
