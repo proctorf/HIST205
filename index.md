@@ -23,31 +23,7 @@ Preferred pronouns: he/him/his
 
 From the very beginning, the magnitude and meaning of the "Conquest" of
 Mexico has been a point of controversy and acclaim. Worlds were upended.
-An empire fell. Milwithout proper acknowledgement from a source (plagiarism).
-
-## Late Papers## Appropriate Use of Course Materials
-
-The materials distributed in this class, including the syllabus, exams, handouts,
-Only late papers accompanied by a valid
-excuse (illness with doctor\'s note, university sanctioned
-extra-curricular activity, family emergency, etc.) will be accepted
-without penalty. All other late papers will be penalized one full letter
-grade on the day following the due date (A to B) and one third of a
-letter grade (B to B-) for each day after that. Missed assignments will
-be assigned a score of zero.
-
-## Academic Integrity
-
-**Please do your own work. Plagiarism will not be tolerated in any form.** The students and faculty of Denison
-University are committed to academic integrity and will not tolerate any
-violation of this principle.  Academic honesty, the cornerstone of
-teaching and learning, lays the foundation for lifelong integrity.
-
-![Denison Logo](media/integrity.jpg)
-
-Academic dishonesty is, in most cases, intellectual theft. It includes,ed through the cumulative impacts
-of war and disease. Christendom was vastly expanded. And, a new society,
-a colonial society, was constructed.
+An empire fell. Tens, maybe hundreds, of thousands died. Christendom was vastly expanded. And, a new society, a colonial society, was constructed on the ashes of the Aztec capital.
 
 The readings in this course take us through the historiography of the
 Conquest, from its original Spanish and indigenous chroniclers through
@@ -61,7 +37,7 @@ and the consolidation of conquest society?
 
 ## Course Goals
 
-**What I want for you -**
+<!-- **What I want for you -** -->
 
 *CRITICAL THINKING AND CLEAR COMMUNICATION - I want to know what YOU,
 not others and not computers, think about a question. And, I want to
@@ -84,32 +60,22 @@ assessment of others. To that end, in this class we will work to:
 
 1)  Sharpen your ability to
 
-    a.  Ask complex yet answerable questions
+    - Ask complex yet answerable questions
 
-    b.  Articulate and communicate complex theses/arguments
+    - Articulate and communicate complex theses/arguments
 
-    c.  Marshal evidence in support of those arguments in written and
-        > oral forms in order to prove your position
+    - Marshal evidence in support of those arguments in written and oral forms in order to prove your position
 
-2)  Hone your skills at interpreting various types of written and visual
-    > sources and historical literature, to reinforce your ability to
-    > identify and critique the various explicit and implicit arguments
-    > within such sources, and to employ such sources in the service of
-    > making your own written and oral arguments.
+2)  Hone your skills at interpreting various types of written and visual sources and historical literature, to reinforce your ability to identify and critique the various explicit and implicit arguments within such sources, and to employ such sources in the service of making your own written and oral arguments.
 
-3)  Further transform you from a passive to an active recipient of
-    > information. To encourage critical reading and viewing as a key to
-    > success in college and beyond.
+3)  Further transform you from a passive to an active recipient of information. To encourage critical reading and viewing as a key to success in college and beyond.
 
-4)  Strengthen your skills at expressing your informed conclusions about
-    > any topic in written forms.
+4)  Strengthen your skills at expressing your informed conclusions about any topic in written forms.
 
-5)  Strengthen your skills at expressing your informed conclusions about
-    > any topic in oral forms AND hearing the informed conclusions of
-    > others and responding to them.
+5)  Strengthen your skills at expressing your informed conclusions about any topic in oral forms AND hearing the informed conclusions of others and responding to them.
 
-**Writing*: This course fulfills one of the two Writing Overlay (W)
-General Education Requirements. ***A primary objective of this course is
+**Writing:** ***This course fulfills one of the two Writing Overlay (W)
+General Education Requirements.*** A primary objective of this course is
 to cultivate students' habits as effective writers by assisting you to
 improve your abilities to conceptualize, write, and revise effective
 nonfiction expository and analytical prose. Effective writing is clear,
@@ -132,62 +98,32 @@ To fulfill this goal, we will focus on three forms of Oral Communication
 student at Denison and in your personal, professional, and civic lives
 after you leave Denison --
 
--   **In-Class Discussion --** Early in the semester we, as a group,
-    > will establish the criteria and rules for in-class discussions.
-    > Further, we will regularly anonymously assess the quality of
-    > in-class discussions and identify ways that we, as individual
-    > participants, can improve them.
+-   **In-Class Discussion --** Early in the semester we, as a group, will establish the criteria and rules for in-class discussions. Further, we will regularly anonymously assess the quality of in-class discussions and identify ways that we, as individual participants, can improve them.
 
 -   **Formal Presentations --** Two times throughout the semester
-    > students will do formal presentations focused on in-class readings
-    > (those presentations must focus on the assigned readings for the
-    > same day as your presentation).
+    students will do formal presentations focused on in-class readings
+(those presentations must focus on the assigned readings for the
+    same day as your presentation).
 
-    -   For the first presentation, students will present a formal
-        > presentation on assigned readings of primary sources (you
-        > should focus on the reading assigned for that day) in teams of
-        > two (2). That presentation should be approximately 8 minutes
-        > followed by Q&A from your classmates.
+    -   For the first presentation, students will present a formal presentation on assigned readings of primary sources (you should focus on the reading assigned for that day) in teams of two (2). That presentation should be approximately 8 minutes followed by Q&A from your classmates.
 
-    -   For the second round of presentations, students will work
-        > independently to produce a 60-90 second podcast focused on the
-        > indigenous primary sources.
+    -   For the second round of presentations, students will work independently to produce a 60-90 second podcast focused on the indigenous primary sources.
 
-    -   For the third round of presentations, students will work in
-        > teams of three to produce a 6-8 minute podcast that assesses
-        > the arguments of an assigned secondary source(s). They will
-        > then field questions from their classmates about their
-        > presentation.
+    -   For the third round of presentations, students will work in teams of three to produce a 6-8 minute podcast that assesses the arguments of an assigned secondary source(s). They will then field questions from their classmates about their presentation.
 
-    -   **Presentations that summarize a reading can receive no higher
-        > than a C-**. The goal is to identify arguments and mark
-        > arguments of your own.
+    -   **Presentations that summarize a reading can receive no higher than a C-**. The goal is to identify arguments and mark arguments of your own.
 
     - Students will also anonymously assess/review these presentations
       (see attached [rubric](https://drive.google.com/file/d/1alJgfxDF6ufjN5xjkC5WOUBGwozWKzDe/view?usp=sharing))
       and will reflect on how we can improve our own presentations
       based on witnessing others' work.
 
-    -   **Presentation Advice -** Work to use *They Say/I Say* as the
-        > model of your presentations. Identify the primary arguments
-        > (or most interesting arguments) that you see emanating from
-        > the primary or secondary source you are presenting on, **AND**
-        > respond to that with an argument of your own. Also, plan your
-        > presentation in advance and seek out advice from your
-        > professor if you think that would be helpful.
+    -   **Presentation Advice -** Work to use *They Say/I Say* as the model of your presentations. Identify the primary arguments (or most interesting arguments) that you see emanating from the primary or secondary source you are presenting on, **AND** respond to that with an argument of your own. Also, plan your presentation in advance and seek out advice from your professor if you think that would be helpful.
 
-    -   **Peer Reviews of Classmates' Presentations --** The quality and
-        > depth of your review of your peers' presentations will also be
-        > assessed and will contribute to your final grade.
+    -   **Peer Reviews of Classmates' Presentations --** The quality and depth of your review of your peers' presentations will also be assessed and will contribute to your final grade.
 
--   **Podcast --**The final assignment for this course will focus on a
-    > podcast focused on an element of the Conquest of Mexico. You will
-    > treat this like a research project, but the final product will be
-    > a podcast.
-
-> What does it mean to treat it like a research paper? You will conduct
-> research, you will present an argument, you will identify and present
-> potential counterarguments
+-   **Podcast --** The final assignment for this course will focus on a podcast focused on an element of the Conquest of Mexico. You will treat this like a research project, but the final product will be a podcast.
+    - What does it mean to treat it like a research paper? You will conduct research, you will present an argument, you will identify and present potential counterarguments
 
 ## Assignment Due Dates and Grading
 
@@ -245,12 +181,13 @@ you will not receive credit towards your final grade).
 **DO NOT WAIT TO COMPLETE THESE TUTORIALS**
 
 You will be graded only on completion. If you complete 100% you will
-receive an A+ for this portion of your grade. You complete your
-Tutorials here (Please select the "Tutorial Tab" after having read the
+receive an A+ for this portion of your grade. 
+
+Please select the "Tutorial Tab" after having read the
 associated chapter through Canvas.
 
 ### Papers
-(specific prompts for each paper can be found on the weekly schedule)
+***Specific prompts for each paper can be found on the weekly schedule***
 
 These papers will be formal historical essays, which will be graded on
 the thoughtfulness of the argument (thesis) and the degree to which the
@@ -277,12 +214,12 @@ Changes) to Canvas.***
 **Paper Format:** The papers must be double spaced, 12-point
 font, have proper footnotes, and must be saved in as a Word file (.doc).
 Papers submitted as Google Docs or as a Works file will be considered
-late. (see the *Chicago Manual of Style, 17^th^ ed*., for style
+late. (see the *Chicago Manual of Style, 17<sup>th</sup> ed*., for style
 guidelines). **YOUR PAPER MUST BE 1250-1500 words in length (excluding
 notes).**
 
 For a guide to the proper citation style, consult the section on the
-"Chicago Manual of Style, 17^th^ edition" in Bullock, Brody, and
+"Chicago Manual of Style, 17<sup>th</sup> edition" in Bullock, Brody, and
 Weinberg, *The Little Seagull Handbook*, 192-226.
 
 **Failure to include proper citations in footnotes will result in a 10%
@@ -310,15 +247,9 @@ most convincing. (HINT - try to avoid writing separate paragraphs on
 each author, but work to combine their ideas within a single idea of
 your own. For example,
 
-> *Scholars disagree on the sexual relationship between Doña Marina and
-> Hernán Cortés and those disagreements help us identify the contours of
-> larger debates about the Conquest. For example, Scholar X treats her
-> as a rape victim, and thus as the embodiment of the Spanish violation
-> of native peoples. Scholar Y counters that Malintzin was a historical
-> agent making the best decisions possible for herself under the
-> circumstances, even as it relates to sex. Malintzin then becomes a
-> model of indigenous self-determination within the conquest, removing
-> them from the position of only victims.*
+> Mark Fiege and Stephen Mihm both interpret the imagery on a postbellum South Carolina $1 banknote as promoting an agrarian ideal, but they diverge in how they understand the racial and political meanings embedded within that vision. Fiege emphasizes the ecological and cultural significance of manual labor, interpreting the blacksmith as a symbol of pre-industrial, muscle-powered productivity. He sees the imagery as celebrating a world rooted in physical labor of the farmer and the mechanic. While he acknowledges that the "enigmatic" cotton picker might have been designed to reassure white viewers that African Americans would remain in subordinate roles, even in freedom, he leaves room for the possibility that the cotton picker represents an independent yeoman. Mihm, by contrast, interprets the note as an instrument of racial propaganda. He argues that the deliberate choice to exclude symbols of industrial progress, and instead highlight labor scenes evocative of the slaveholding past, signals a nostalgic and deeply racialized agrarian ideal. For Mihm, the note was part of a broader effort to legitimize white supremacy and undercut Reconstruction. 
+>
+>Denison student Katie Loveday suggests that this "idealized world" can only be fully understood when the third image, the girls or young women, are considered alongside the other two. The sexist nature of the image, and its connections to the white blacksmith who appears to be leering at them, suggest that this idealized world was only for white men.
 
 ### Final Project
 
@@ -350,39 +281,27 @@ sources*. Your experiences with your first four papers should help you
 write sections of your final project, but to help you conceptualize the
 podcast I would encourage you to consider and include the following:
 
-1)  Write for an uninitiated audience (think about what this suggests
-    > you should include or leave out)
+1)  Write for an uninitiated audience (think about what this suggests you should include or leave out)
 
-2)  Provide a brief narrative of events (that are important to your
-    > topic)
+2)  Provide a brief narrative of events (that are important to your topic)
 
-3)  Include a reference to other arguments section relevant to your
-    > topic
+3)  Include a reference to other arguments section relevant to your topic
 
-4)  Draw specific evidence from the primary sources we've read this
-    > semester to support your arguments
+4)  Draw specific evidence from the primary sources we've read this semester to support your arguments
 
-    a.  ***You might conceive of this as a dialog in which one side
-        > makes an argument, another side makes a counterargument*, and
-        > you indicate where you fall in the debate.**
+    - ***You might conceive of this as a dialog in which one side makes an argument, another side makes a counterargument,*** **and you indicate where you fall in the debate.**
 
 5)  In the end, you will need to reach a formal conclusion, but the
-    > purpose of this exercise is to encourage us to fully consider
-    > arguments that contradict our own in the pursuit of presenting our
-    > own argument.
+    purpose of this exercise is to encourage us to fully consider
+    arguments that contradict our own in the pursuit of presenting our own argument.
 
-6)  Oh, and make it entertaining, something that you would want your
-    > parents or your roommates to hear.
+6)  Oh, and make it entertaining, something that you would want your parents or your roommates to hear.
 
 **The project must**
 
-1)  **Articulate a historical question that emanates out of the *primary
-    > sources* on the conquest of Mexico**
+1)  **Articulate a historical question that emanates out of the**  ***primary sources*** **on the conquest of Mexico**
 
-    a.  **TO BE CLEAR, your reading of the primary sources must be the
-        > basis for your argument and thus you want to spend time
-        > explicating the source, within the context of your arguments,
-        > to your reader.**
+    - **TO BE CLEAR, your reading of the primary sources must be the basis for your argument and thus you want to spend time explicating the source, within the context of your arguments,to your reader.**
 
 2) **Engage the ideas of others in service of making your arguments.**
 
@@ -390,29 +309,18 @@ podcast I would encourage you to consider and include the following:
 
 A non-exhaustive list of potential topics includes:
 
-+-----------------+---+---------------------------+
-| Quetzalcoatl    |   | Hernán Cortes             |
-+=================+===+===========================+
-| Moteuczuma II   |   | Andrés de Tapia           |
-+-----------------+---+---------------------------+
-| Horses          |   | The Night of Sorrows      |
-+-----------------+---+---------------------------+
-| Malintzin       |   | Villa Rica de la Veracruz |
-+-----------------+---+---------------------------+
-| Cholula         |   | Brigantines               |
-+-----------------+---+---------------------------+
-| Huitzilopotchli |   | Human Sacrifice           |
-+-----------------+---+---------------------------+
-| Tlaxcala        |   | Tenochtitlán              |
-+-----------------+---+---------------------------+
-| Cultures of War |   | Omens                     |
-+-----------------+---+---------------------------+
-| Smallpox        |   | Weapons / Technology      |
-|                 |   |                           |
-| Toxcatl         |   |                           |
-+-----------------+---+---------------------------+
-|                 |   |                           |
-+-----------------+---+---------------------------+
+| | | |
+|---|---|---|
+| Quetzalcoatl | | Hernán Cortes |
+| Moteuczuma II | | Andrés de Tapia |
+| Horses | | The Night of Sorrows |
+| Malintzin | | Villa Rica de la Veracruz |
+| Cholula | | Brigantines |
+| Huitzilopotchli | | Human Sacrifice |
+| Tlaxcala | | Tenochtitlán |
+| Cultures of War | | Omens |
+| Smallpox | | Weapons / Technology |
+| Toxcatl | | |
 
 You will conduct library and Internet research, locating a minimum of
 eight (8) different sources to complete your final project. A minimum of
@@ -427,50 +335,53 @@ semester your primary goal is to advance an historical argument.
 As part of the research process, students will submit the following
 stepping stone assignments
 
-> **Initial Thoughts on Final Research Paper** -- In 250 words, please
-> identify the topic and major questions that you plan to address in the
-> final paper. Please include a list of potential sources that you plan
-> to use *beyond* those assigned for class.
->
-> **The Annotated Bibliography:** For the annotated bibliography, please
-> open with a one paragraph summation of your research project and
-> research questions. Then, list each source you will employ in your
-> research with a bibliographic citation in *Chicago Manual of Style,
-> 16^t\ h^* *Edition* style, followed by an annotation (in one to three
-> sentences) which contains your evaluative comments indicating the
-> nature of the source, any special problems it might pose (e.g.,
-> excessive bias), and how it will contribute to your work. Make sure
-> the annotations are in your own words. Your bibliography should
-> include separate sections for primary and secondary sources. You may
-> use sources listed in the syllabus, but a significant expectation is
-> that you will also find a significant number of sources not included
-> there.
->
-> **The Argument Proposal:** Once you have completed the research to
-> compose your Annotated Bibliography, you should have a better idea of
-> what it is you want to argue, so that's when you will submit a brief
-> proposal (a paragraph or two) of your argument. Though this is
-> preliminary and you're not wedded to it for your final project, I urge
-> you to think hard about this portion of the assignment. Test your
-> ideas with me, with friends, with consultants in the Writing Center.
-> Do more research as you focus more intensely. The sooner you begin
-> thinking about these ideas and trying them out on paper, the better
-> you'll do in constructing your argument and not panicking about
-> writing the paper at the last minute. This proposal must include a
-> thesis, the types of evidence you intend to use, and the
-> conclusion---the answer to the "so what?" question---you expect to
-> reach.
->
-> **This can be accomplished in no more than three paragraphs - a
-> statement about your topic, your questions, and what you plan to argue
-> (while indicating how your sources might help you).**
+## Stepping Stone Assignments for Final Podcast
+
+**Initial Thoughts on Final Podcast** -- In 250 words, please
+identify the topic and major questions that you plan to address in the
+final paper. Please include a list of potential sources that you plan
+to use *beyond* those assigned for class.
+
+**The Annotated Bibliography:** For the annotated bibliography, please
+open with a one paragraph summation of your research project and
+research questions. Then, list each source you will employ in your
+research with a bibliographic citation in *Chicago Manual of Style,
+17<sup>th</sup>* *Edition* style, followed by an annotation (in one to three
+sentences) which contains your evaluative comments indicating the
+nature of the source, any special problems it might pose (e.g.,
+excessive bias), and how it will contribute to your work. Make sure
+the annotations are in your own words. Your bibliography should
+include separate sections for primary and secondary sources. You may
+use sources listed in the syllabus, but a significant expectation is
+that you will also find a significant number of sources not included
+there.
+
+**The Argument Proposal:** Once you have completed the research to
+compose your Annotated Bibliography, you should have a better idea of
+what it is you want to argue, so that's when you will submit a brief
+proposal (a paragraph or two) of your argument. Though this is
+preliminary and you're not wedded to it for your final project, I urge
+you to think hard about this portion of the assignment. Test your
+ideas with me, with friends, with consultants in the Writing Center.
+Do more research as you focus more intensely. The sooner you begin
+thinking about these ideas and trying them out on paper, the better
+you'll do in constructing your argument and not panicking about
+writing the paper at the last minute. This proposal must include a
+thesis, the types of evidence you intend to use, and the
+conclusion---the answer to the "so what?" question---you expect to
+reach.
+
+- **This can be accomplished in no more than three paragraphs - a
+statement about your topic, your questions, and what you plan to argue
+(while indicating how your sources might help you).**
 
 The script for your podcast paper should utilize the materials you've
 found in your research to present a historical argument. The goal is not
 an encyclopedic summary of information about your topic of interest, but
 rather an argument.
 
-**Podcast --** You will also prepare and present a podcast on your
+## Podcast 
+You will also prepare and present a podcast on your
 research project as part of your final project. You will need to submit
 both an audio file (and a script) of that portion of the project. Please
 include a title for your podcast, an intro and outro, and music for
@@ -501,12 +412,9 @@ as distinct.
 
 Hints --
 
--   Give your podcast a name (not the title of your paper, but of the
-    > podcast series yours might fit into - MY FAVORITE PODCAST IS "If
-    > Books Could Kill")
+-   Give your podcast a name (not the title of your paper, but of the podcast series yours might fit into - MY FAVORITE PODCAST IS "If Books Could Kill")
 
--   Think about audience (it should be aimed at someone who is not a
-    > student/professor in our class)
+-   Think about audience (it should be aimed at someone who is not a student/professor in our class)
 
 Please upload your final as an MP3 file (not a .wav file)
 
@@ -597,7 +505,7 @@ were added merely to reach a target length. It might offer ideas that
 don't go beyond the familiar and use overly general phrasing and clichés
 without showing successful engagement with complex ideas.
 
-A paper might fail if it's extremely difficult to read, if it doesn't
+A paper might fail (**F**) if it's extremely difficult to read, if it doesn't
 have an idea that connects its parts, if it doesn't offer support for
 its claims, if it's merely summary and not argument, if it doesn't
 fulfill the assignment, if ideas are not grouped into paragraphs, or if
@@ -605,7 +513,7 @@ persistent grammatical errors draw the readers' attention away from the
 topic. An essay might also fail if phrases or ideas have been used
 without proper acknowledgement from a source (plagiarism).
 
-**[Late Papers:]{.underline}** Only late papers accompanied by a valid
+***Late Papers:*** Only late papers accompanied by a valid
 excuse (illness with doctor\'s note, university sanctioned
 extra-curricular activity, family emergency, etc.) will be accepted
 without penalty. All other late papers will be penalized one full letter
@@ -613,14 +521,14 @@ grade on the day following the due date (A to B) and one third of a
 letter grade (B to B-) for each day after that. Missed assignments will
 be assigned a score of zero.
 
-**[Academic Integrity]{.underline}: Please do your own work. Plagiarism
-will not be tolerated in any form.** The students and faculty of Denison
+## Academic Integrity
+
+**Please do your own work. Plagiarism will not be tolerated in any form.** The students and faculty of Denison
 University are committed to academic integrity and will not tolerate any
 violation of this principle.  Academic honesty, the cornerstone of
 teaching and learning, lays the foundation for lifelong integrity.
-![](media/image1.jpg){width="1.125in" height="1.65625in"}
 
-Academic dishonesty is, in most cases, intellectual theft. It includes,
+<img src="media/integrity.jpg" alt="Academic Integrity" style="float: left; margin-right: 15px; margin-bottom: 10px; max-width: 200px;"> Academic dishonesty is, in most cases, intellectual theft. It includes,
 but is not limited to, providing or receiving assistance in a manner not
 authorized by the instructor in the creation of work to be submitted for
 evaluation. This standard applies to all work ranging from daily
@@ -644,21 +552,18 @@ dishonesty in this class will be a grade of zero for the assignment in
 question and potentially a failing grade for the course in egregious
 cases.
 
-**Note on Technology and AI:**
+***Note on Technology and AI***
 
-While AI tools like ChatGPT and BARD can be powerful tools, you should
-not rely on them to complete your assignment. Doing so may constitute a
+While AI tools like ChatGPT, Claude, and Gemini can be powerful tools, you should
+not rely on them to complete your assignments. Doing so may constitute a
 violation of the Denison University Academic Integrity Policy. (We will
 have a class day focused on how AI works, and how it might be
 appropriate to use it on an assignment like those required in this
-class).
+class).  **See below for full AI statement.**
 
-Uploading or inputting personal or proprietary information---including
-course materials or academic books and journal articles that you
-download from JSTOR or other password-protected databases---to an AI
-Chatbot site like ChatGPT or Bard may violate copyright law.
+## Appropriate Use of Course Materials
 
-**[Appropriate Use of Course Materials:]{.underline}** The materials
+The materials
 distributed in this class, including the syllabus, exams, handouts,
 study aids, and in-class presentations, may be protected by copyright
 and are provided solely for the educational use of students enrolled in
@@ -710,50 +615,21 @@ that into their future work. Throughout the semester, students will
 complete group assignments and they are expected to meet together with
 their group mates and with the professor for guidance on group projects.
 
-+----------------------------------------------------------------------+
-| AI Statement -                                                       |
-|                                                                      |
-| The development of generative AI chatbots like ChatGPT and Bard are  |
-| transforming the landscape of higher education. With that reality in |
-| mind, here are some guiding principles for the use of AI **in our    |
-| course** (other faculty may have different policies, and it is YOUR  |
-| responsibility to know what each of your professors determine is the |
-| acceptable and ethical use of AI in their courses).                  |
-|                                                                      |
-| -   RECOGNIZE that my primary interest is to know what YOU THINK     |
-|     > about the materials I have assigned. (I don't care what a      |
-|     > computer might produce as representing the "hive mind" or      |
-|     > "groupthink " best answer to a question based on what others   |
-|     > have written.)                                                 |
-|                                                                      |
-|     -   AI might be appropriate as a piece of the process of         |
-|         > identifying a topic and theme to write your papers on. It  |
-|         > might be helpful to identify the author and their          |
-|         > historical context to better understand your source(s).    |
-|         > But, it **should not be used** to produce the final        |
-|         > product (Please don't ask AI to "write a paper" for you,   |
-|         > you're only cheating yourself)                             |
-|                                                                      |
-|     -   If you consult AI, Academic Integrity requires that you      |
-|         > ACKNOWLEDGE such use to your readers. Do so in a footnote. |
-|         > In a sentence, explain your use of AI and identify the     |
-|         > tool(s) you consulted.                                     |
-|                                                                      |
-|         -   Do not CITE AI. Citations are meant to identify the work |
-|             > of other humans that you have consulted, and to        |
-|             > provide a clear path to your evidence for your readers |
-|             > should they want to consult it themselves. AI-produced |
-|             > information is not reproducible, and thus is not a     |
-|             > valid source.                                          |
-|                                                                      |
-| -   DO NOT input/upload any personal information to AI. Do not       |
-|     > provide your D\#, SSN\#, Passport\#, Slayter box \#, telephone |
-|     > number, etc. to AI                                             |
-|                                                                      |
-| -   DO NOT *UPLOAD* any course materials or assigned reading to AI.  |
-|     > Doing so may violate the Denison Code of Academic Integrity    |
-|     > and Federal Copyright Law.                                     |
-+----------------------------------------------------------------------+
+## AI Statement
+
+The development of generative AI chatbots like ChatGPT and Bard are transforming the landscape of higher education. With that reality in mind, here are some guiding principles for the use of AI **in our course** (other faculty may have different policies, and it is YOUR responsibility to know what each of your professors determine is the acceptable and ethical use of AI in their courses).
+
+- **RECOGNIZE** that my primary interest is to know what YOU THINK about the materials I have assigned. (I don't care what a computer might produce as representing the "hive mind" or "groupthink" best answer to a question based on what others have written.)
+
+  - AI might be appropriate as a piece of the process of identifying a topic and theme to write your papers on. It might be helpful to identify the author and their historical context to better understand your source(s). But, it **should not be used** to produce the final product (Please don't ask AI to "write a paper" for you, you're only cheating yourself)
+
+  - If you consult AI, Academic Integrity requires that you ACKNOWLEDGE such use to your readers. Do so in a footnote. In a sentence, explain your use of AI and identify the tool(s) you consulted.
+
+    - Do not CITE AI. Citations are meant to identify the work of other humans that you have consulted, and to provide a clear path to your evidence for your readers should they want to consult it themselves. AI-produced information is not reproducible, and thus is not a valid source.
+
+- **DO NOT** input/upload any personal information to AI. Do not provide your D#, SSN#, Passport#, Slayter box #, telephone number, etc. to AI
+
+- **DO NOT** *UPLOAD* any course materials or assigned reading to AI. Doing so may violate the Denison Code of Academic Integrity and Federal Copyright Law.
 
 ## Course Schedule
 
