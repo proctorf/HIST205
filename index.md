@@ -291,7 +291,7 @@ podcast I would encourage you to consider and include the following:
 
 4)  Draw specific evidence from the primary sources we've read this semester to support your arguments
 
-    - ***You might conceive of this as a dialog in which one side makes an argument, another side makes a counterargument,*** **and you indicate where you fall in the debate.**
+    ***You might conceive of this as a dialog in which one side makes an argument, another side makes a counterargument,*** **and you indicate where you fall in the debate.**
 
 5)  In the end, you will need to reach a formal conclusion, but the
     purpose of this exercise is to encourage us to fully consider
@@ -303,7 +303,7 @@ podcast I would encourage you to consider and include the following:
 
 1)  **Articulate a historical question that emanates out of the**  ***primary sources*** **on the conquest of Mexico**
 
-    - **TO BE CLEAR, your reading of the primary sources must be the basis for your argument and thus you want to spend time explicating the source, within the context of your arguments,to your reader.**
+    **TO BE CLEAR, your reading of the primary sources must be the basis for your argument and thus you want to spend time explicating the source, within the context of your arguments, to your reader.**
 
 2) **Engage the ideas of others in service of making your arguments.**
 
