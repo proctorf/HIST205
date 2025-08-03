@@ -1,3 +1,7 @@
+---
+title: Conquest of Mexico
+---
+
 **History 205-03 -- THE CONQUEST OF MEXICO\
 Prof. Frank "Trey" Proctor**
 
@@ -158,7 +162,7 @@ after you leave Denison --
 | **Presentation #1** Spanish Primary Sources (2-person teams) | 9/22-10/23 | 5% |
 | **Presentation #2** Short Podcast on Indigenous Primary Sources | 11/1-11/4 | 2.5% |
 | **Presentation #3** Podcast on Secondary Sources (3-person teams) | 11/8-11/21 | 7.5% |
-| **Presentation #4** Final Podcast Presentations | 12/12 | -- |
+| **Presentation #4** Final Podcast | 12/17 | -- |
 
 ### Other Work
 
@@ -243,11 +247,11 @@ identifies how three different authors we read (11/06-11/17) seek to
 answer that question. You should seek to put those authors in
 conversation, to identify the major (and minor) differences between
 their positions, and to signal to your readers which arguments you find
-most convincing. (HINT - try to avoid writing separate paragraphs on
+most convincing. (**HINT - try to avoid writing separate paragraphs on
 each author, but work to combine their ideas within a single idea of
-your own. For example,
+your own**). For example,
 
-> Mark Fiege, Stephen Mihm, and Denison alumna Katie Loveday all interpret the imagery on a postbellum South Carolina $1 banknote as promoting an agrarian ideal, but they diverge in how they understand the racial and political meanings embedded within that vision. Fiege emphasizes the ecological and cultural significance of manual labor, interpreting the blacksmith as a symbol of pre-industrial, muscle-powered productivity. He sees the imagery as celebrating a world rooted in physical labor of the farmer and the mechanic. While he acknowledges that the "enigmatic" cotton picker might have been designed to reassure white viewers that African Americans would remain in subordinate roles, even in freedom, he leaves room for the possibility that the cotton picker represents an independent yeoman. Mihm, by contrast, interprets the note as an instrument of racial propaganda. He argues that the deliberate choice to exclude symbols of industrial progress, and instead highlight labor scenes evocative of the slaveholding past, signals a nostalgic and deeply racialized agrarian ideal. For Mihm, the note was part of a broader effort to legitimize white supremacy and undercut Reconstruction. Denison student Katie Loveday suggests that this "idealized world" can only be fully understood when the third image, the girls or young women, are considered alongside the other two. The sexist nature of the image, and its connections to the white blacksmith who appears to be leering at them, suggest that this idealized world was only for white men.
+> Mark Fiege, Stephen Mihm, and Denison alumna Katie Loveday all interpret the imagery on a postbellum South Carolina $1 banknote as promoting an agrarian ideal, but they diverge in how they understand the racial and political meanings embedded within that vision. Fiege emphasizes the ecological and cultural significance of manual labor, interpreting the blacksmith as a symbol of pre-industrial, muscle-powered productivity. He sees the imagery as celebrating a world rooted in physical labor of the farmer and the mechanic. While he acknowledges that the "enigmatic" cotton picker might have been designed to reassure white viewers that African Americans would remain in subordinate roles, even in freedom, he leaves room for the possibility that the cotton picker represents an independent yeoman. Mihm, by contrast, interprets the note as an instrument of racial propaganda. He argues that the deliberate choice to exclude symbols of industrial progress, and instead highlight labor scenes evocative of the slaveholding past, signals a nostalgic and deeply racialized agrarian ideal. For Mihm, the note was part of a broader effort to legitimize white supremacy and undercut Reconstruction. Loveday insists that this "idealized world" can only be fully understood when the third image, the girls or young women - bare footed, bare shouldered, girls in a coquettish pose, are considered in relation to the other two. The sexist nature of the image, and its connections to the white blacksmith who appears to be leering at them, suggest that this idealized world was only for white men.
 
 ### Final Project
 
@@ -855,15 +859,15 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 - **In-Class Writing Accountability Day**
 
 **Wednesday 12/10**
-- **In-Class Writing Accountability Day / Course Evaluations**
+- **In-Class Writing Accountability Day**
 - **DUE: Paper #8 - Full Draft of Podcast Script**
 
 **Friday 12/12**
-- **Final Presentations and Wrap-up**
+- **Course Evaluations & Wrap-up**
 
 ### Finals Week
 **Wednesday, December 17 @ 11:00am**
 - **Final Podcast and Paper #9 - Final Script Due**
 
-**Thursday, December 17 @ 5pm**
+**Thursday, December 18 @ 5pm**
 - **Review of Classmates Podcasts Due**
