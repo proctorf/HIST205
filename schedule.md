@@ -8,8 +8,7 @@
 
 ### Week 2 (September 1-5)
 **Monday 9/1**
-- **Activity: Establish Classroom Discussion Environment**
-- **Handout in Syllabus**
+- **Activity: Establish Classroom Discussion Environment** (Please take a some time to think about and write down some answers to the questions below.  Again, you're job is to collective establish the groundrules for our in-class conversations this semester.) <a href="https://docs.google.com/document/d/1HvKOCt2RXvGM8qKxLpw_NPKZN3hdAjtMuGONuX9X3eU/edit?tab=t.0" target="_blank">Click for Handout</a>
 
 **Wednesday 9/3**
 - **What is History?**
