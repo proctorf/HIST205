@@ -20,7 +20,7 @@
 - Reading: Ross Hassig, "<a href="https://drive.google.com/file/d/1S0lynFFaoUUoKqrbjhnj7hsemRsLNYPm/view?usp=sharing" target="_blank">The Collision of Two Worlds</a>" in *The Oxford History of Mexico*, William Beezley and Michael Meyer, eds., (New York: Oxford University Press, 2000), 73-107.
 - Reading: Gerald Graff and Cathy Birkenstein, *They Say/I Say: The Moves that Matter in Academic Writing*, 4th ed. (New York: W.W. Norton & Co., Inc., 2014), 1-29. (intro and Chapter 1)
 
-**Assingment** <a href="https://denison.instructure.com/courses/15549/assignments/153446" target="_blank">*They Say/I Say* Tutorial - CH 1</a>
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153446" target="_blank">*They Say/I Say* Tutorial - CH 1</a>
 
 ### Week 3 (September 8-12)
 **Monday 9/8**
