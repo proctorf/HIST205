@@ -2,7 +2,7 @@
 title: Conquest of Mexico
 ---
 
-**History 205-03 -- THE CONQUEST OF MEXICO\
+**History 205-02 -- THE CONQUEST OF MEXICO\
 Prof. Frank "Trey" Proctor**
 
 **Fall 2025**
@@ -19,7 +19,7 @@ Office: 404 Fellows Hall
 
 Telephone: 740-587-5791
 
-Email: [proctorf@denison.edu](mailto:proctorf@denison.edu)
+Email: <a href="mailto:proctorf@denison.edu" target="_blank">proctorf@denison.edu</a>
 
 Preferred pronouns: he/him/his
 
@@ -27,7 +27,14 @@ Preferred pronouns: he/him/his
 
 From the very beginning, the magnitude and meaning of the "Conquest" of
 Mexico has been a point of controversy and acclaim. Worlds were upended.
-An empire fell. Tens, maybe hundreds, of thousands died. Christendom was vastly expanded. And, a new society, a colonial society, was constructed on the ashes of the Aztec capital.
+An empire fell. Tens, maybe hundreds, of thousands died. Christendom was v**Monday 9/15**
+- **Writing Workshop - AI and Cortés's First Letter**
+- Reading: Jonathan Zimmerman, "<a href="https://www.washingtonpost.com/opinions/2023/08/29/ai-student-policy-chatgpt-college/" target="_blank">Here's my AI policy for students: I don't have one</a>," *Washington Post*, August 29, 2023. <a href="https://drive.google.com/file/d/1QtPAVn0XlV-fpQ4tFf1xEHyxv66WAiRX/view?usp=drive_link" target="_blank">Link to pdf</a>
+- O'Rourke, Meghan. "<a href="https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html" target="_blank">I Teach Creative Writing. This Is What A.I. Is Doing to
+Students</a>" Opinion. The New York Times, July 18, 2025. (pdf on Canvas)
+- Enthusiast, Eleventh Hour. "<a href="https://medium.com/@EleventhHourEnthusiast/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-253fb48d0863" target="_blank">Your Brain on ChatGPT: Accumulation of Cognitive
+Debt When Using an AI Assistant for Essay Writing…</a>" Medium, June 23, 2025.
+<a href="Your_Brain_on_ChatGPT.pdf" target="_blank">(pdf)</a>panded. And, a new society, a colonial society, was constructed on the ashes of the Aztec capital.
 
 The readings in this course take us through the historiography of the
 Conquest, from its original Spanish and indigenous chroniclers through
@@ -118,7 +125,7 @@ after you leave Denison --
     -   **Presentations that summarize a reading can receive no higher than a C-**. The goal is to identify arguments and mark arguments of your own.
 
     - Students will also anonymously assess/review these presentations
-      (see attached [rubric](https://drive.google.com/file/d/1alJgfxDF6ufjN5xjkC5WOUBGwozWKzDe/view?usp=sharing))
+      (see attached <a href="https://drive.google.com/file/d/1alJgfxDF6ufjN5xjkC5WOUBGwozWKzDe/view?usp=sharing" target="_blank">rubric</a>)
       and will reflect on how we can improve our own presentations
       based on witnessing others' work.
 
@@ -648,18 +655,18 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 
 **Wednesday 9/3**
 - **What is History?**
-- Reading: John Arnold, [*History: A Very Short Introduction*](https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001) (Oxford: Oxford University Press, 2000), 1-14.
+- Reading: John Arnold, <a href="https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001" target="_blank">*History: A Very Short Introduction*</a> (Oxford: Oxford University Press, 2000), 1-14.
 
 **Friday 9/5**
 - **OVERVIEW -- THE CONQUEST IN A DAY**
-- Reading: Ross Hassig, "[The Collision of Two Worlds](https://drive.google.com/file/d/1S0lynFFaoUUoKqrbjhnj7hsemRsLNYPm/view?usp=sharing)" in *The Oxford History of Mexico*, William Beezley and Michael Meyer, eds., (New York: Oxford University Press, 2000), 73-107.
+- Reading: Ross Hassig, "<a href="https://drive.google.com/file/d/1S0lynFFaoUUoKqrbjhnj7hsemRsLNYPm/view?usp=sharing" target="_blank">The Collision of Two Worlds</a>" in *The Oxford History of Mexico*, William Beezley and Michael Meyer, eds., (New York: Oxford University Press, 2000), 73-107.
 - Reading: Gerald Graff and Cathy Birkenstein, *They Say/I Say: The Moves that Matter in Academic Writing*, 4th ed. (New York: W.W. Norton & Co., Inc., 2014), 1-29. (intro and Chapter 1)
 
 ### Week 3 (September 8-12)
 **Monday 9/8**
 - **Discussion -- How to Read a Primary Source**
-- Reading: Lee Braver, "[How I Mark Up Philosophy Texts](https://drive.google.com/file/d/1S4MpznH7QdPap4RW0zCDWFZze6ie6gNr/view?usp=sharing)," *APA Newsletter on Teaching Philosophy* 14:1 (FALL 2014), 13-16.
-- Reading: Arnold, *History: A Very Short Introduction,* [110-116](https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0007) (you do not need to read the entire chapter).
+- Reading: Lee Braver, "<a href="https://drive.google.com/file/d/1S4MpznH7QdPap4RW0zCDWFZze6ie6gNr/view?usp=sharing" target="_blank">How I Mark Up Philosophy Texts</a>," *APA Newsletter on Teaching Philosophy* 14:1 (FALL 2014), 13-16.
+- Reading: Arnold, *History: A Very Short Introduction,* <a href="https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0007" target="_blank">110-116</a> (you do not need to read the entire chapter).
 - Reading: Graf and Birkenstein, *They Say/I Say*, 32-46, 188-92. (Chapter 2 & 13)
 
 **Wednesday 9/10**
@@ -675,6 +682,12 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 ### Week 4 (September 15-19)
 **Monday 9/15**
 - **Writing Workshop - AI and Cortés's First Letter**
+- Reading: Jonathan Zimmerman, "<a href="https://www.washingtonpost.com/opinions/2023/08/29/ai-student-policy-chatgpt-college/" target="_blank">Here's my AI policy for students: I don't have one</a>," *Washington Post*, August 29, 2023. <a href="https://drive.google.com/file/d/1QtPAVn0XlV-fpQ4tFf1xEHyxv66WAiRX/view?usp=drive_link" target="_blank">Link to pdf</a>
+- O’Rourke, Meghan. "[I Teach Creative Writing. This Is What A.I. Is Doing to
+Students](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html)" Opinion. The New York Times, July 18, 2025. (pdf on Canvas)
+- Enthusiast, Eleventh Hour. “[Your Brain on ChatGPT: Accumulation of Cognitive
+Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@EleventhHourEnthusiast/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-253fb48d0863)” Medium, June 23, 2025.
+[(pdf)](Your_Brain_on_ChatGPT.pdf)
 
 **Wednesday 9/17**
 - **Overcoming Public Speaking Anxiety / What Makes a Successful Presentation?**
@@ -743,8 +756,8 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 
 **Wednesday 10/16**
 - **Writing Workshop:** Plagiarism and How to Read (and Write) about Secondary Sources; or, Writing as Conversation
-- Reading: Oswald Patton, "[A Closed Letter to Myself about Thievery, Heckling, and Rape Jokes](https://docs.google.com/document/d/1k-Vul5aAXLgkM4x6ZIwBR2nMcBPOOeA9EqRcqiTdklQ/edit?usp=sharing)" Section 1 "Thievery" at [https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated](https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated) (YOU ARE NOT RESPONSIBLE FOR THE "HECKLING" OR "RAPE JOKES" SECTIONS)
-- Reading: Jonathan Zimmerman, "[Here's my AI policy for students: I don't have one](https://www.washingtonpost.com/opinions/2023/08/29/ai-student-policy-chatgpt-college/)," *Washington Post*, August 29, 2023. [Link to pdf](https://drive.google.com/file/d/1QtPAVn0XlV-fpQ4tFf1xEHyxv66WAiRX/view?usp=drive_link)
+- Reading: Oswald Patton, "<a href="https://docs.google.com/document/d/1k-Vul5aAXLgkM4x6ZIwBR2nMcBPOOeA9EqRcqiTdklQ/edit?usp=sharing" target="_blank">A Closed Letter to Myself about Thievery, Heckling, and Rape Jokes</a>" Section 1 "Thievery" at <a href="https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated" target="_blank">https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated</a> (YOU ARE NOT RESPONSIBLE FOR THE "HECKLING" OR "RAPE JOKES" SECTIONS)
+
 - Reading: Graf and Birkenstein, *They Say/I Say*, 154-164. (CH 11)
 - Complete the "Plagiarism Tutorial" from *They Say*
 
@@ -771,14 +784,14 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 ### Week 10 (October 28 - November 1)
 **Monday 10/28**
 - **Aztecs I**
-- Reading: "[How they reared the sons of lords and noblemen](https://docs.google.com/document/d/13HWeKiTWcnmKsXcQcZLV5SHxazQYj193OE-Qo1LUZgg/edit?usp=sharing)," Bernardino de Sahagún, Florentine Codex: General History of the Things of New Spain, Book 8---Kings and Lords, Chapter 21.
-- Reading: "[Advice of an Aztec Mother to Her Daughter](https://docs.google.com/document/d/1SNrkN2ypM5HGDFhkLMjmO7juNg_6lNkdCJXdP41B8X8/edit?usp=sharing)," from Bernardino de Sahagún, Historia de Nueva España
-- RECOMMENDED: David Carrasco, *[The Aztecs: A Very Short Introduction](https://consort.library.denison.edu:443/record=b5026322~S6)* (New York: Oxford University Press, 2012), 1-7, 16-33, and 38-71.
+- Reading: "<a href="https://docs.google.com/document/d/13HWeKiTWcnmKsXcQcZLV5SHxazQYj193OE-Qo1LUZgg/edit?usp=sharing" target="_blank">How they reared the sons of lords and noblemen</a>," Bernardino de Sahagún, Florentine Codex: General History of the Things of New Spain, Book 8---Kings and Lords, Chapter 21.
+- Reading: "<a href="https://docs.google.com/document/d/1SNrkN2ypM5HGDFhkLMjmO7juNg_6lNkdCJXdP41B8X8/edit?usp=sharing" target="_blank">Advice of an Aztec Mother to Her Daughter</a>," from Bernardino de Sahagún, Historia de Nueva España
+- RECOMMENDED: David Carrasco, *<a href="https://consort.library.denison.edu:443/record=b5026322~S6" target="_blank">The Aztecs: A Very Short Introduction</a>* (New York: Oxford University Press, 2012), 1-7, 16-33, and 38-71.
 
 **Wednesday 10/30**
 - **Indigenous Accounts I -- The Florentine Codex**
 - Reading: James Lockhart, *We People Here: Nahuatl Accounts of The Conquest of Mexico* (Wipf & Stock Publishers, 2004), 27-36, 48-113 (Chapters 1-15).
-- Reading: Diego Muñoz Camargo, *Historia de Tlaxcala* (1585), from [http://nationalhumanitiescenter.org/pds/amerbegin/contact/text6/mexica_tlaxcala.pdf](http://nationalhumanitiescenter.org/pds/amerbegin/contact/text6/mexica_tlaxcala.pdf), pgs. 8-11.
+- Reading: Diego Muñoz Camargo, *Historia de Tlaxcala* (1585), from <a href="http://nationalhumanitiescenter.org/pds/amerbegin/contact/text6/mexica_tlaxcala.pdf" target="_blank">http://nationalhumanitiescenter.org/pds/amerbegin/contact/text6/mexica_tlaxcala.pdf</a>, pgs. 8-11.
 - **DUE: Paper #4**
 
 **Friday 11/1**
@@ -799,8 +812,8 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 
 **Friday 11/8**
 - **Interpretations I -- Technology and Tactics?**
-- Reading: Douglas A. Daniel, "[Tactical Factors in the Spanish Conquest of the Aztecs](https://www.jstor.org/stable/3317246)," *Anthropological Quarterly* 65:4 (1992), 187-94.
-- Reading: Matthew Restall, "[Neither Paid nor Forced: The Myth of the King's Army](https://ebookcentral-proquest-com.denison.idm.oclc.org/lib/denison-ebooks/detail.action?docID=272683)" in *Seven Myths of the Spanish Conquest* (New York; Oxford University Press, 2004), 27-43.
+- Reading: Douglas A. Daniel, "<a href="https://www.jstor.org/stable/3317246" target="_blank">Tactical Factors in the Spanish Conquest of the Aztecs</a>," *Anthropological Quarterly* 65:4 (1992), 187-94.
+- Reading: Matthew Restall, "<a href="https://ebookcentral-proquest-com.denison.idm.oclc.org/lib/denison-ebooks/detail.action?docID=272683" target="_blank">Neither Paid nor Forced: The Myth of the King's Army</a>" in *Seven Myths of the Spanish Conquest* (New York; Oxford University Press, 2004), 27-43.
 - **Presentation #2**
 - Reading: Graf and Birkenstein, *They Say/I Say*, 193-204. (Ch 14)
 - **DUE: Initial Thoughts on Final Project**
@@ -808,30 +821,30 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 ### Week 12 (November 11-15)
 **Monday 11/11**
 - **Interpretations II -- Culture?**
-- Reading: Tzvetan Todorov, [*The Conquest of America: The Question of the Other*](https://drive.google.com/file/d/1SFBioFFUK_VV_BlAW5fiTSlPZapFB6aw/view?usp=sharing), Richard Howard, trans., (Harper Perennial, 1984), p 51-77, 93-123.
+- Reading: Tzvetan Todorov, <a href="https://drive.google.com/file/d/1SFBioFFUK_VV_BlAW5fiTSlPZapFB6aw/view?usp=sharing" target="_blank">*The Conquest of America: The Question of the Other*</a>, Richard Howard, trans., (Harper Perennial, 1984), p 51-77, 93-123.
 - **Presentation #2**
 
 **Wednesday 11/13**
 - **Interpretations III -- Indian Civil War?**
-- Reading: Michel Oudijk and Matthew Restall, "[Mesoamerican Conquistadors in the Sixteenth Century](https://drive.google.com/file/d/1SBk8zT9Q_8H54iWC7Z9cg1S7HtWBa2dr/view?usp=sharing)" in *Indian Conquistadors: Indigenous Allies in the Conquest of Mesoamerica* (University of Oklahoma Press, 2007), 28-64.
+- Reading: Michel Oudijk and Matthew Restall, "<a href="https://drive.google.com/file/d/1SBk8zT9Q_8H54iWC7Z9cg1S7HtWBa2dr/view?usp=sharing" target="_blank">Mesoamerican Conquistadors in the Sixteenth Century</a>" in *Indian Conquistadors: Indigenous Allies in the Conquest of Mesoamerica* (University of Oklahoma Press, 2007), 28-64.
 - **Presentation #2**
 - Reading: Graf and Birkenstein, *They Say/I Say*, 205-233 (Ch 15)
 - **DUE: Paper #6**
 
 **Friday 11/15**
 - **Interpretations IV -- The White God Myth?**
-- Reading: Camilla Townsend, "[Burying the White Gods: New Perspectives on the Conquest of Mexico](https://academic.oup.com/ahr/article-pdf/108/3/659/51731/108-3-659.pdf)," *American Historical Review* 108:3 (June 2003), 659-687.
+- Reading: Camilla Townsend, "<a href="https://academic.oup.com/ahr/article-pdf/108/3/659/51731/108-3-659.pdf" target="_blank">Burying the White Gods: New Perspectives on the Conquest of Mexico</a>," *American Historical Review* 108:3 (June 2003), 659-687.
 - **Presentation #2**
 
 ### Week 13 (November 18-22)
 **Monday 11/18**
 - **Interpretations V -- Culture Clash?**
-- Reading: Inga Clendinnen, "'[Fierce and Unnatural Cruelty:' Cortés and the Conquest of Mexico](https://www.jstor.org/stable/2928758)," *Representations* 33 (1991): 35-60.
+- Reading: Inga Clendinnen, "'<a href="https://www.jstor.org/stable/2928758" target="_blank">Fierce and Unnatural Cruelty:' Cortés and the Conquest of Mexico</a>," *Representations* 33 (1991): 35-60.
 - **Presentation #2**
 
 **Wednesday 11/20**
 - **Interpretations VI -- Moctezuma?**
-- Reading: Susan B. Gillespie, "[Blaming Moteuczoma: The Anthropomorphization of the Aztec Conquest](https://muse-jhu-edu.denison.idm.oclc.org/book/113)," in *Invasion and Transformation: Interdisciplinary Perspectives on the Conquest of Mexico*, R.P. Brienen and M.A. Jackson, eds., (Boulder: University Press of Colorado, 2008), 25-55.
+- Reading: Susan B. Gillespie, "<a href="https://muse-jhu-edu.denison.idm.oclc.org/book/113" target="_blank">Blaming Moteuczoma: The Anthropomorphization of the Aztec Conquest</a>," in *Invasion and Transformation: Interdisciplinary Perspectives on the Conquest of Mexico*, R.P. Brienen and M.A. Jackson, eds., (Boulder: University Press of Colorado, 2008), 25-55.
 - **Presentation #2**
 - **DUE: Annotated Bibliography for Final Podcast**
 
