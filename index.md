@@ -142,8 +142,8 @@ after you leave Denison --
 | **Essay #5** Full Draft on Indigenous Perspectives / **Peer Review Workshop** | 11/6 | -- |
 | **Essay #6** Paper #6 Perspectives | 11/13 | 12.5% |
 | **Essay #7** Critical Literature Review (by 5pm) | 12/3 | 5% |
-| **Essay #8** Full Draft Podcast Script / **Peer Review Workshop** | 12/10 | 7.5% |
-| **Essay #9** Final Script (Wed @ 11:00am) | 12/17 | 15% |
+| **Essay #8** Full Draft Podcast Script / **Peer Review Workshop** | 12/10 | -- |
+| **Essay #9** Final Script (Wed @ 11:00am) | 12/17 | 7.5% |
 
 ### Stepping Stone Assignments for Final Podcast
 
@@ -162,7 +162,7 @@ after you leave Denison --
 | **Presentation #1** Spanish Primary Sources (2-person teams) | 9/22-10/23 | 5% |
 | **Presentation #2** Short Podcast on Indigenous Primary Sources | 11/1-11/4 | 2.5% |
 | **Presentation #3** Podcast on Secondary Sources (3-person teams) | 11/8-11/21 | 7.5% |
-| **Presentation #4** Final Podcast | 12/17 | -- |
+| **Presentation #4** Final Podcast | 12/17 | 12.5% |
 
 ### Other Work
 
