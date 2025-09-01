@@ -633,4 +633,4 @@ The development of generative AI chatbots like ChatGPT and Bard are transforming
 
 - **DO NOT** *UPLOAD* any course materials or assigned reading to AI. Doing so may violate the Denison Code of Academic Integrity and Federal Copyright Law.
 
-[FOR COMPLETE COURSE SCHEDULE CLICK HERE](Schedule.md)
+[FOR COMPLETE COURSE SCHEDULE CLICK HERE](schedule.md)
