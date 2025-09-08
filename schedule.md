@@ -41,7 +41,7 @@
 
 **Friday 9/12**
 - **Spanish Sources I -- Cortés' 1st Letter**
-- Reading: Hernán Cortés, *Letters from Mexico* (New Haven: Yale Univ. Press, 2001), 3-46.
+- Reading: Hernán Cortés, [*Letters from Mexico*](CortesFirstLetter.pdf) (New Haven: Yale Univ. Press, 2001), 3-46. 
 - Reading: Graf and Birkenstein, *They Say/I Say*, 59-73. (Ch 4)
 
 **Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153449" target="_blank">*They Say/I Say* Tutorial - CH 4</a>
