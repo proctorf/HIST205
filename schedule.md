@@ -28,15 +28,23 @@
 - Reading: Arnold, *History: A Very Short Introduction,* <a href="https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0007" target="_blank">110-116</a> (you do not need to read the entire chapter).
 - Reading: Graf and Birkenstein, *They Say/I Say*, 32-46, 188-92. (Chapter 2 & 13)
 
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153447" target="_blank">*They Say/I Say* Tutorial - CH 2</a>
+
+
 **Wednesday 9/10**
 - **Writing Workshop: Explicating Evidence**
 - **In-Class Exercises**
 - Reading: Graf and Birkenstein, *They Say/I Say*, 47-58. (Ch 3)
 
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153448" target="_blank">*They Say/I Say* Tutorial - CH 3</a>
+
+
 **Friday 9/12**
 - **Spanish Sources I -- Cortés' 1st Letter**
 - Reading: Hernán Cortés, *Letters from Mexico* (New Haven: Yale Univ. Press, 2001), 3-46.
 - Reading: Graf and Birkenstein, *They Say/I Say*, 59-73. (Ch 4)
+
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153449" target="_blank">*They Say/I Say* Tutorial - CH 4</a>
 
 ### Week 4 (September 15-19)
 **Monday 9/15**
@@ -51,6 +59,8 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 **Wednesday 9/17**
 - **Overcoming Public Speaking Anxiety / What Makes a Successful Presentation?**
 - Reading: Graf and Birkenstein, *They Say/I Say*, 72-81 (Ch 5 & 6)
+
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153450" target="_blank">*They Say/I Say* Tutorial - CH 5</a> AND **Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153451" target="_blank">CH 6</a>
 
 **Friday 9/19**
 - **In Class -- Public Speaking Workshop**
