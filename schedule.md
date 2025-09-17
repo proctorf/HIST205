@@ -75,28 +75,28 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 **Wednesday 9/24**
 - **Spanish Sources III -- Cortés' 2nd Letter**
 - Reading: Cortés, *Letters from Mexico*, 47-102
-- **Presentation #1**
+- **Presentation #1** - ***Anna and Logan***
 
 **Friday 9/26**
 - **Spanish Sources IV -- Díaz's "Historia Verdadera"**
 - Reading: Díaz del Castillo, *The Conquest of New Spain*, 107-113, 119-125, 140-188.
-- **Presentation #1**
+- **Presentation #1** - ***Graham, Luca, and Phuc***
 
 ### Week 6 (September 29 - October 3)
 **Monday 9/29**
 - **Spanish Sources V -- Díaz's "Historia Verdadera"**
 - Reading: Díaz del Castillo, *The Conquest of New Spain*, 189-244.
-- **Presentation #1**
+- **Presentation #1** - ***Owen and Lauren***
 
 **Wednesday 10/1**
 - **Spanish Sources VI -- Cortés' 2nd Letter, cont.**
 - Reading: Cortés, *Letters from Mexico*, 102-143.
-- **Presentation #1**
+- **Presentation #1** - ***Holden and Macky***
 
 **Friday 10/3**
 - **Spanish Sources VII -- Díaz's "Historia Verdadera"**
 - Reading: Díaz del Castillo, *The Conquest of New Spain*, 245-302.
-- **Presentation #1**
+- **Presentation #1** - ***Matt and Tyler G***
 
 ### Week 7 (October 6-10)
 **Monday 10/6**
@@ -118,7 +118,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 **Monday 10/13**
 - **Spanish Sources VIII -- Cortés' 3rd Letter**
 - Reading: Cortés, *Letters from Mexico*, 143-207
-- **Presentation #1**
+- **Presentation #1** - ***Andrew and Tyler M***
 
 **Wednesday 10/15**
 - **Spanish Sources IX -- Cortés's 3rd Letter, cont.**
