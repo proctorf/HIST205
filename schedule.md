@@ -74,7 +74,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Wednesday 9/24**
 - **Spanish Sources III -- Cortés' 2nd Letter**
-- Reading: Cortés, *Letters from Mexico*, 47-102
+- Reading: Cortés, *Letters from Mexico*, 47-102 [PDF of Second Letter](Cortes_Second_Letter.pdf) and [Notes for Second Letter](Notes_Second_Letter.pdf)
 - **Presentation #1** - ***Anna and Logan***
 
 **Friday 9/26**
