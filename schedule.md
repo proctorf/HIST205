@@ -131,7 +131,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 ### Week 9 (October 20-24)
 **Monday 10/20**
 - **Spanish Sources X -- Díaz's "Historia Verdadera"**
-- Reading: Diaz del Castillo, *The Conquest of New Spain*, 303-307, 353-413.
+- Reading: [Diaz del Castillo, *The Conquest of New Spain*, 303-307, 353-413.](Diaz303_413.pdf]
 - **Presentation #1**
 
 **Wednesday 10/22**
