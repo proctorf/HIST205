@@ -77,7 +77,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - Reading: Cortés, *Letters from Mexico*, 47-102 [PDF of Second Letter](Cortes_Second_Letter.pdf) and [Notes for Second Letter](Notes_Second_Letter.pdf)
 - **Presentation #1** - ***Anna and Logan***
 
-**Friday 9/26**
+**Friday 9/26 <span style="color:red">Class today meets in 203 Fellows Hall</span>**
 - **Spanish Sources IV -- Díaz's "Historia Verdadera"**
 - Reading: [Díaz del Castillo, *The Conquest of New Spain*, 107-113, 119-125, 140-188.](Diaz107_188.pdf)
 - **Presentation #1** - ***Graham, Luca, and Phuc***
