@@ -64,7 +64,6 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Friday 9/19**
 - **In Class -- Public Speaking Workshop**
-- Reading: Graf and Birkenstein, *They Say/I Say*, 112-122 (Ch 8)
 
 ### Week 5 (September 22-26)
 **Monday 9/22**
@@ -106,12 +105,18 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Wednesday 10/8**
 - **Sentences Workshop**
-- **DUE: Complete Draft Paper #2**
-- Reading: Graf and Birkenstein, *They Say/I Say*, 123-138. (Ch 9)
+
+- Reading: Graf and Birkenstein, *They Say/I Say*, 112-122 (Ch 8)
+- 
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153453" target="_blank">*They Say/I Say* Tutorial - CH 8</a>
 
 **Friday 10/10**
 - **Podcasting Workshop**
 - Materials TBD
+- Reading: Graf and Birkenstein, *They Say/I Say*, 123-138. (Ch 9)
+
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153454" target="_blank">*They Say/I Say* Tutorial - CH 9</a>
+
 **DUE - PAPER #2**
 
 ### Week 8 (October 13-17)
@@ -138,8 +143,9 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - **Writing Workshop:** Plagiarism and How to Read (and Write) about Secondary Sources; or, Writing as Conversation
 - Reading: Oswald Patton, "<a href="https://docs.google.com/document/d/1k-Vul5aAXLgkM4x6ZIwBR2nMcBPOOeA9EqRcqiTdklQ/edit?usp=sharing" target="_blank">A Closed Letter to Myself about Thievery, Heckling, and Rape Jokes</a>" Section 1 "Thievery" at <a href="https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated" target="_blank">https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated</a> (YOU ARE NOT RESPONSIBLE FOR THE "HECKLING" OR "RAPE JOKES" SECTIONS)
 
-- Reading: Graf and Birkenstein, *They Say/I Say*, 154-164. (CH 11)
+- Reading: Graf and Birkenstein, *They Say/I Say*, 154-164. (CH 11) 
 - Complete the "Plagiarism Tutorial" from *They Say*
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153456" target="_blank">*They Say/I Say* Tutorial - CH 11</a>
 
 **Friday 10/24**
 
@@ -154,6 +160,8 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - **DUE: Full Draft Paper #3**
 - **Prompt:** Now that we have finished the Spanish Chroniclers, how do these authors explain Spanish victory and native defeat? Do you (dis)agree? Based on your reading of Spanish Chroniclers, how would you explain the Spanish defeat of the Aztec Empire?
 - Reading: Graf and Berkenstein, *They Say*, 165-87. (Ch 12)
+
+- **Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153457" target="_blank">*They Say/I Say* Tutorial - CH 12</a>
 
 **Wednesday 10/29**
 - **Indigenous Accounts I -- The Florentine Codex**
