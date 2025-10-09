@@ -115,7 +115,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - Please identify a podcast software that you can use for our presentations later in the semester.  It doesn't matter which one, so long as you can produce .wav4 or .mp3 files
 - Here is a tutorial for [Audacity](https://docs.google.com/document/d/1GuwsrmHVe7eMoz0I-8iIiiA7UC-_dyy30aJQ8yH694w/edit?usp=sharing)
 
-- Assignment - post a 15 second podcast about anything you want
+- Assignment - post a 15 second podcast about anything you want ([post it here](https://denison.instructure.com/courses/15549/assignments/154139))
 - Reading: Graf and Birkenstein, *They Say/I Say*, 123-138. (Ch 9)
 
 **Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153454" target="_blank">*They Say/I Say* Tutorial - CH 9</a>
