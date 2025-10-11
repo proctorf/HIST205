@@ -125,7 +125,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 ### Week 8 (October 13-17)
 **Monday 10/13**
 - **Spanish Sources VIII -- Cortés' 3rd Letter**
-- Reading: Cortés, *Letters from Mexico*, 143-207
+- Reading: [Cortés, *Letters from Mexico*](Cortes_Third_Letter.pdf), 143-207
 - **Presentation #1** - ***Andrew and Tyler M***
 
 **Wednesday 10/15**
