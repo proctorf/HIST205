@@ -64,7 +64,6 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Friday 9/19**
 - **In Class -- Public Speaking Workshop**
-- Reading: Graf and Birkenstein, *They Say/I Say*, 112-122 (Ch 8)
 
 ### Week 5 (September 22-26)
 **Monday 9/22**
@@ -77,7 +76,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - Reading: Cortés, *Letters from Mexico*, 47-102 [PDF of Second Letter](Cortes_Second_Letter.pdf) and [Notes for Second Letter](Notes_Second_Letter.pdf)
 - **Presentation #1** - ***Anna and Logan***
 
-**Friday 9/26**
+**Friday 9/26 <span style="color:red">Class today meets in 203 Fellows Hall</span>**
 - **Spanish Sources IV -- Díaz's "Historia Verdadera"**
 - Reading: [Díaz del Castillo, *The Conquest of New Spain*, 107-113, 119-125, 140-188.](Diaz107_188.pdf)
 - **Presentation #1** - ***Graham, Luca, and Phuc***
@@ -106,18 +105,27 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Wednesday 10/8**
 - **Sentences Workshop**
-- **DUE: Complete Draft Paper #2**
+
+- Reading: Graf and Birkenstein, *They Say/I Say*, 112-122 (Ch 8)
+- 
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153453" target="_blank">*They Say/I Say* Tutorial - CH 8</a>
+
+**Friday 10/10** **<font color="red">NO CLASS MEETING TODAY</font>
+- **Podcasting Workshop**
+- Please identify a podcast software that you can use for our presentations later in the semester.  It doesn't matter which one, so long as you can produce .wav4 or .mp3 files
+- Here is a tutorial for [Audacity](https://docs.google.com/document/d/1GuwsrmHVe7eMoz0I-8iIiiA7UC-_dyy30aJQ8yH694w/edit?usp=sharing)
+
+- Assignment - post a 15 second podcast about anything you want ([post it here](https://denison.instructure.com/courses/15549/assignments/154139))
 - Reading: Graf and Birkenstein, *They Say/I Say*, 123-138. (Ch 9)
 
-**Friday 10/10**
-- **Podcasting Workshop**
-- Materials TBD
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153454" target="_blank">*They Say/I Say* Tutorial - CH 9</a>
+
 **DUE - PAPER #2**
 
 ### Week 8 (October 13-17)
 **Monday 10/13**
 - **Spanish Sources VIII -- Cortés' 3rd Letter**
-- Reading: Cortés, *Letters from Mexico*, 143-207
+- Reading: [Cortés, *Letters from Mexico*](Cortes_Third_Letter.pdf), 143-207
 - **Presentation #1** - ***Andrew and Tyler M***
 
 **Wednesday 10/15**
@@ -131,15 +139,16 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 ### Week 9 (October 20-24)
 **Monday 10/20**
 - **Spanish Sources X -- Díaz's "Historia Verdadera"**
-- Reading: [Diaz del Castillo, *The Conquest of New Spain*, 303-307, 353-413.](Diaz303_413.pdf]
+- Reading: [Diaz del Castillo, *The Conquest of New Spain*, 303-307, 353-413.](Diaz303_413.pdf)
 - **Presentation #1**
 
 **Wednesday 10/22**
 - **Writing Workshop:** Plagiarism and How to Read (and Write) about Secondary Sources; or, Writing as Conversation
 - Reading: Oswald Patton, "<a href="https://docs.google.com/document/d/1k-Vul5aAXLgkM4x6ZIwBR2nMcBPOOeA9EqRcqiTdklQ/edit?usp=sharing" target="_blank">A Closed Letter to Myself about Thievery, Heckling, and Rape Jokes</a>" Section 1 "Thievery" at <a href="https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated" target="_blank">https://genius.com/Patton-oswalt-a-closed-letter-to-myself-about-thievery-heckling-and-rape-jokes-annotated</a> (YOU ARE NOT RESPONSIBLE FOR THE "HECKLING" OR "RAPE JOKES" SECTIONS)
 
-- Reading: Graf and Birkenstein, *They Say/I Say*, 154-164. (CH 11)
+- Reading: Graf and Birkenstein, *They Say/I Say*, 154-164. (CH 11) 
 - Complete the "Plagiarism Tutorial" from *They Say*
+**Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153456" target="_blank">*They Say/I Say* Tutorial - CH 11</a>
 
 **Friday 10/24**
 
@@ -154,6 +163,8 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - **DUE: Full Draft Paper #3**
 - **Prompt:** Now that we have finished the Spanish Chroniclers, how do these authors explain Spanish victory and native defeat? Do you (dis)agree? Based on your reading of Spanish Chroniclers, how would you explain the Spanish defeat of the Aztec Empire?
 - Reading: Graf and Berkenstein, *They Say*, 165-87. (Ch 12)
+
+- **Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153457" target="_blank">*They Say/I Say* Tutorial - CH 12</a>
 
 **Wednesday 10/29**
 - **Indigenous Accounts I -- The Florentine Codex**
