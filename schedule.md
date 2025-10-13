@@ -131,7 +131,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 **Wednesday 10/15**
 - **Spanish Sources IX -- Cortés's 3rd Letter, cont.**
 - Reading: Cortés, *Letters from Mexico*, 207-281.
-- **Presentation #1** ***Omar and Jonathan***
+
 
 **Friday 10/17**
 - **Fall Break - No Class**
@@ -140,7 +140,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 **Monday 10/20**
 - **Spanish Sources X -- Díaz's "Historia Verdadera"**
 - Reading: [Diaz del Castillo, *The Conquest of New Spain*, 303-307, 353-413.](Diaz303_413.pdf)
-- **Presentation #1**
+- **Presentation #1** ***Omar and Jonathan***
 
 **Wednesday 10/22**
 - **Writing Workshop:** Plagiarism and How to Read (and Write) about Secondary Sources; or, Writing as Conversation
