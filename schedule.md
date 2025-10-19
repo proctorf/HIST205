@@ -101,7 +101,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 **Monday 10/6**
 - **Writing Workshop -- Paper #1**
 - **DUE: Full Draft Paper #1**
-- **Prompt**: Assume the world ended on July 1, 1520, how would Hernan Cortés and Bernal Díaz del Castillo have characterized the Conquest of Mexico to that point? What were the most important factors or interesting processes that they identified to explain the course of the Conquest to that date? Do you agree with them? How would you characterize the course of conquest to that date based on their writings? Were the Spanish winning? Why or why not?
+- **Prompt**: Assume the world ended on July 1, 1520, how would the Spanish Chroniclers (Hernan Cortés and Bernal Díaz del Castillo) have characterized the Conquest of Mexico to that point? What were the most important factors or interesting processes that they identified to explain the course of the Conquest to that date? Do you agree with them? How would you characterize the course of conquest to that date based on their writings? Were the Spanish winning? Why or why not?
 
 **Wednesday 10/8**
 - **Sentences Workshop**
