@@ -155,7 +155,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - **The Aztecs in a Day**
 - Reading: "<a href="https://docs.google.com/document/d/13HWeKiTWcnmKsXcQcZLV5SHxazQYj193OE-Qo1LUZgg/edit?usp=sharing" target="_blank">How they reared the sons of lords and noblemen</a>," Bernardino de Sahagún, Florentine Codex: General History of the Things of New Spain, Book 8---Kings and Lords, Chapter 21.
 - Reading: "<a href="https://docs.google.com/document/d/1SNrkN2ypM5HGDFhkLMjmO7juNg_6lNkdCJXdP41B8X8/edit?usp=sharing" target="_blank">Advice of an Aztec Mother to Her Daughter</a>," from Bernardino de Sahagún, Historia de Nueva España
-- RECOMMENDED: David Carrasco, *<a href="https://consort.library.denison.edu:443/record=b5026322~S6" target="_blank">The Aztecs: A Very Short Introduction</a>* (New York: Oxford University Press, 2012), 1-7, 16-33, and 38-71.
+- RECOMMENDED: David Carrasco, *<a href="https://primo.denison.edu/discovery/fulldisplay?docid=alma991051717479108509&context=L&vid=01OHIOLINK_DENISON:DENISON&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,the%20aztecs%20a%20very%20short%20introduction" target="_blank">The Aztecs: A Very Short Introduction</a>* (New York: Oxford University Press, 2012), 1-7, 16-33, and 38-71.
 
 ### Week 10 (October 27-31)
 **Monday 10/27**
