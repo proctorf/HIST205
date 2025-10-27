@@ -193,7 +193,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - **Indigenous Accounts III -- The Florentine Codex**
 - Reading: Lockhart, *We People Here*, 181-256 (Chapters 29-41).
 
-**Asssignment** 90-second "They Say/I Say" podcast  ***(Tyler G, Lauren, Omar, Mackey, Holden)***
+**Asssignment** 90-second "They Say/I Say" podcast  ***(Tyler G, Lauren, Omar, Macky, Holden)***
 
 **Friday 11/7**
 - **Writing Workshop Paper #5**
