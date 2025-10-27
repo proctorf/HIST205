@@ -167,26 +167,33 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - **Assignment** <a href="https://denison.instructure.com/courses/15549/assignments/153457" target="_blank">*They Say/I Say* Tutorial - CH 12</a>
 
 **Wednesday 10/29**
+
+- **Library Workshop**
+- Reading: Graf and Birkenstein, *They Say/I Say*, 139-153. (Ch 10)
+
+
+**Friday 10/31**
 - **Indigenous Accounts I -- The Florentine Codex**
 - Reading: James Lockhart, *We People Here: Nahuatl Accounts of The Conquest of Mexico* (Wipf & Stock Publishers, 2004), 27-36, 48-113 (Chapters 1-15).
 - Reading: Diego Muñoz Camargo, *Historia de Tlaxcala* (1585), from <a href="http://nationalhumanitiescenter.org/pds/amerbegin/contact/text6/mexica_tlaxcala.pdf" target="_blank">http://nationalhumanitiescenter.org/pds/amerbegin/contact/text6/mexica_tlaxcala.pdf</a>, pgs. 8-11.
 
-**Friday 10/31**
+**Asssignment** 90-second "They Say/I Say" podcast ***(Flynn, Andrew, Matt, Luka, Graham)***
 
-- **Library Workshop**
-- Reading: Graf and Birkenstein, *They Say/I Say*, 139-153. (Ch 10)
 - **DUE: Paper #4**
 
 ### Week 11 (November 3-7)
 **Monday 11/3**
 - **Indigenous Accounts II -- The Florentine Codex**
 - Reading: Lockhart, *We People Here*, 114-181 (Chapters 16-28) & 256-73
-- **Presentation #2**
+
+**Asssignment** 90-second "They Say/I Say" podcast ***(Anna, Tyler M, Jonathan, Owen, Logan)***
+
 
 **Wednesday 11/5**
 - **Indigenous Accounts III -- The Florentine Codex**
 - Reading: Lockhart, *We People Here*, 181-256 (Chapters 29-41).
-- **Presentation #2**
+
+**Asssignment** 90-second "They Say/I Say" podcast  ***(Tyler G, Lauren, Omar, Mackey, Holden)***
 
 **Friday 11/7**
 - **Writing Workshop Paper #5**
