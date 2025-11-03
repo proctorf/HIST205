@@ -207,38 +207,38 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 - **Interpretations I -- Technology and Tactics?**
 - Reading: Douglas A. Daniel, "<a href="https://www.jstor.org/stable/3317246" target="_blank">Tactical Factors in the Spanish Conquest of the Aztecs</a>," *Anthropological Quarterly* 65:4 (1992), 187-94.
 - Reading: Matthew Restall, "<a href="https://ebookcentral-proquest-com.denison.idm.oclc.org/lib/denison-ebooks/detail.action?docID=272683" target="_blank">Neither Paid nor Forced: The Myth of the King's Army</a>" in *Seven Myths of the Spanish Conquest* (New York; Oxford University Press, 2004), 27-43.
-- **Presentation #2**
+  
 - Reading: Graf and Birkenstein, *They Say/I Say*, 193-204. (Ch 14)
 
 **Wednesday 11/12**
 - **Interpretations II -- Culture?**
 - Reading: Tzvetan Todorov, <a href="https://drive.google.com/file/d/1SFBioFFUK_VV_BlAW5fiTSlPZapFB6aw/view?usp=sharing" target="_blank">*The Conquest of America: The Question of the Other*</a>, Richard Howard, trans., (Harper Perennial, 1984), p 51-77, 93-123.
-- **Presentation #2**
+- **Presentation #2**  ***Group 1 - Lauren, Matt, and Andrew***
 
 **Friday 11/14**
 - **Interpretations III -- Indian Civil War?**
 - Reading: Michel Oudijk and Matthew Restall, "<a href="https://drive.google.com/file/d/1SBk8zT9Q_8H54iWC7Z9cg1S7HtWBa2dr/view?usp=sharing" target="_blank">Mesoamerican Conquistadors in the Sixteenth Century</a>" in *Indian Conquistadors: Indigenous Allies in the Conquest of Mesoamerica* (University of Oklahoma Press, 2007), 28-64.
 - **Presentation #2**
 - Reading: Graf and Birkenstein, *They Say/I Say*, 205-233 (Ch 15)
-- **DUE: Paper #6**
+- **DUE: Paper #6** ***Group 2 - Tyler, Tyler, and Luka***
 
 ### Week 13 (November 17-21)
 **Monday 11/17**
 - **Interpretations IV -- The White God Myth?**
 - Reading: Camilla Townsend, "<a href="https://academic.oup.com/ahr/article-pdf/108/3/659/51731/108-3-659.pdf" target="_blank">Burying the White Gods: New Perspectives on the Conquest of Mexico</a>," *American Historical Review* 108:3 (June 2003), 659-687.
-- **Presentation #2**
+- **Presentation #2** ***Group 3 - Omar, Owen, and Logan***
 
 **Wednesday 11/19**
 - **Interpretations V -- Culture Clash?**
 - Reading: Inga Clendinnen, "'<a href="https://www.jstor.org/stable/2928758" target="_blank">Fierce and Unnatural Cruelty:' Cortés and the Conquest of Mexico</a>," *Representations* 33 (1991): 35-60.
-- **Presentation #2**
+- **Presentation #2** ***Group 4 - Macky and Anna***
 
 - **DUE: Annotated Bibliography for Final Podcast**
 
 **Friday 11/21**
 - **Interpretations VI -- Moctezuma?**
 - Reading: Susan B. Gillespie, "<a href="https://muse-jhu-edu.denison.idm.oclc.org/book/113" target="_blank">Blaming Moteuczoma: The Anthropomorphization of the Aztec Conquest</a>," in *Invasion and Transformation: Interdisciplinary Perspectives on the Conquest of Mexico*, R.P. Brienen and M.A. Jackson, eds., (Boulder: University Press of Colorado, 2008), 25-55.
-- **Presentation #2**
+- **Presentation #2** ***Group 5 - Flynn, Graham, and Jonathan***
 
 ### Thanksgiving Break (November 24-28)
 **No Classes November 24-28**
