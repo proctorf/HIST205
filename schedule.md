@@ -218,9 +218,10 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 **Friday 11/14**
 - **Interpretations III -- Indian Civil War?**
 - Reading: Michel Oudijk and Matthew Restall, "<a href="https://drive.google.com/file/d/1SBk8zT9Q_8H54iWC7Z9cg1S7HtWBa2dr/view?usp=sharing" target="_blank">Mesoamerican Conquistadors in the Sixteenth Century</a>" in *Indian Conquistadors: Indigenous Allies in the Conquest of Mesoamerica* (University of Oklahoma Press, 2007), 28-64.
-- **Presentation #2**
 - Reading: Graf and Birkenstein, *They Say/I Say*, 205-233 (Ch 15)
-- **DUE: Paper #6** ***Group 2 - Tyler, Tyler, and Luka***
+  
+- **Presentation #2** - ***Group 2 - Tyler, Tyler, and Luka***
+- **DUE: Paper #6** 
 
 ### Week 13 (November 17-21)
 **Monday 11/17**
