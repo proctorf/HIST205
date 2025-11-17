@@ -231,7 +231,7 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Wednesday 11/19**
 - **Interpretations V -- Culture Clash?**
-- Reading: Inga Clendinnen, "'<a href="https://www.jstor.org/stable/2928758" target="_blank">Fierce and Unnatural Cruelty:' Cortés and the Conquest of Mexico</a>," *Representations* 33 (1991): 35-60.
+- Reading: Inga Clendinnen, "'<a href="https://www.jstor.org/stable/2928758" target="_blank">Fierce and Unnatural Cruelty:' Cortés and the Conquest of Mexico</a>," *Representations* 33 (1991): 65-100.
 - **Presentation #2** ***Group 4 - Macky and Anna***
 
 - **DUE: Annotated Bibliography for Final Podcast**
