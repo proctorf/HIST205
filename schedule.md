@@ -250,11 +250,11 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Wednesday 12/3**
 - **In-Class Writing Accountability Day**
-- - **DUE: Argument Proposal and Annotated Bibliography for Final Podcast**
+- - **DUE: [Argument Proposal and Annotated Bibliography for Final Podcast](https://denison.instructure.com/courses/15549/assignments/154118)**
 
 **Friday 12/5**
 - **In-Class Writing Accountability Day**
-- **DUE by 5pm: Paper #7 Critical Literature Review**
+- **DUE by 5pm: Paper #7 [Critical Literature Review](https://denison.instructure.com/courses/15549/assignments/154125)**
 - Write a 250-500-word essay that puts three (or more) of the 7 historians above in conversation
 
 
