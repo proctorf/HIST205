@@ -247,15 +247,16 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 ### Week 14 (December 1-5)
 **Monday 12/1**
 - **In-Class Writing Accountability Day**
-- **DUE: Argument Proposal for Final Podcast**
 
 **Wednesday 12/3**
 - **In-Class Writing Accountability Day**
-- **DUE by 5pm: Paper #7 Critical Literature Review**
-- Write a 500-word essay that puts three (or more) of the 7 historians above in conversation
+- - **DUE: Argument Proposal and Annotated Bibliography for Final Podcast**
 
 **Friday 12/5**
 - **In-Class Writing Accountability Day**
+- **DUE by 5pm: Paper #7 Critical Literature Review**
+- Write a 250-500-word essay that puts three (or more) of the 7 historians above in conversation
+
 
 ### Week 15 (December 8-12)
 **Monday 12/8**
