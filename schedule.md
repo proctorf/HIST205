@@ -264,10 +264,11 @@ Debt When Using an AI Assistant for Essay Writing…](https://medium.com/@Eleven
 
 **Wednesday 12/10**
 - **In-Class Writing Accountability Day**
-- **DUE: Paper #8 - Full Draft of Podcast Script**
+
 
 **Friday 12/12**
 - **Course Evaluations & Wrap-up**
+- **DUE: Paper #8 - Full Draft of Podcast Script**
 
 ### Finals Week
 **Wednesday, December 17 @ 11:00am**
