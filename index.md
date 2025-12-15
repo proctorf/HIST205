@@ -113,7 +113,7 @@ after you leave Denison --
 
     -   For the second round of presentations, students will work independently to produce a 60-90 second podcast focused on the indigenous primary sources.
 
-    -   For the third round of presentations, students will work in teams of three to produce a 6-8 minute podcast that assesses the arguments of an assigned secondary source(s). They will then field questions from their classmates about their presentation.
+    -   For the third round of presentations, students will work in teams of three to produce a 6-8 minute podcast that assesses the arguments of an assigned secondary source(s). *Please work to insure that the team members are together (in person, or virtually) when you record.  This should sound like an interactive presentation, not separate sections. They will then field questions from their classmates about their presentation.
 
     -   **Presentations that summarize a reading can receive no higher than a C-**. The goal is to identify arguments and mark arguments of your own.
 
@@ -207,13 +207,7 @@ thesis is supported by cited evidence.
 ***Failure to submit a complete initial draft of a paper will carry an
 automatic 10% penalty on the final grade for that paper.***
 
-***Please use "Track Changes" in Word to mark the revisions you make to
-your original draft. You can turn on "track changes" under the review
-tab (and can set it so that you cannot see all the change you make if
-you like).***
-
-***To submit a final paper, please upload the final revision (with Track
-Changes) to Canvas.***
+***To submit a final paper, please upload the final revision to Canvas.***
 
 **Paper Format:** The papers must be double spaced, 12-point
 font, have proper footnotes, and must be saved in as a Word file (.doc).
