@@ -210,9 +210,8 @@ automatic 10% penalty on the final grade for that paper.***
 ***To submit a final paper, please upload the final revision to Canvas.***
 
 **Paper Format:** The papers must be double spaced, 12-point
-font, have proper footnotes, and must be saved in as a Word file (.doc).
-Papers submitted as Google Docs or as a Works file will be considered
-late. (see the *Chicago Manual of Style, 17<sup>th</sup> ed*., for style
+font, have proper footnotes. Please submit your paper as a GoogleDoc (.gdoc) or Word file (.docx). For GoogleDocs, make sure that you give me permission to comment on your paper (you can do this for each file, or create a sepearate folder for your work in this class and give me persmissions for the folder).  If I cannot open your file because you have not shared it with me, your work will be considered unsubmitted and can potentially receive a zero().
+Papers submitted in other formats will not be accepted. (see the *Chicago Manual of Style, 17<sup>th</sup> ed*., for style
 guidelines). **YOUR PAPER MUST BE 1250-1500 words in length (excluding
 notes).**
 
